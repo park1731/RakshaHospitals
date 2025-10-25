@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    
+    <!-- Main Domain - Electronic City Branch (Main Branch) -->
+    <url>
+        <loc>https://rakshahospital.com/</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rakshahospital.com/"/>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://rakshahospital.com/electroniccity/hi/"/>
+        <xhtml:link rel="alternate" hreflang="kn" href="https://rakshahospital.com/electroniccity/kn/"/>
+    </url>
+    
+    <!-- Electronic City Branch -->
+    <url>
+        <loc>https://rakshahospital.com/electroniccity/</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rakshahospital.com/electroniccity/"/>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://rakshahospital.com/electroniccity/hi/"/>
+        <xhtml:link rel="alternate" hreflang="kn" href="https://rakshahospital.com/electroniccity/kn/"/>
+    </url>
+    
+    <!-- Kudlu Branch -->
+    <url>
+        <loc>https://rakshahospital.com/kudlu/</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rakshahospital.com/kudlu/"/>
+    </url>
+    
+    <!-- Electronic City Branch Pages -->
+    <url>
+        <loc>https://rakshahospital.com/electroniccity/about.html</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/electroniccity/doctors.html</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/electroniccity/specialities.html</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/electroniccity/appointment.html</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/electroniccity/contact.html</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/electroniccity/health-check.html</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/electroniccity/blogs.html</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/electroniccity/gallary.html</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <!-- Kudlu Branch Pages -->
+    <url>
+        <loc>https://rakshahospital.com/kudlu/about.html</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/kudlu/doctors.html</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/kudlu/specialities.html</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/kudlu/Appointment.html</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/kudlu/contact.html</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/kudlu/healthCheckups.html</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/kudlu/blog.html</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/kudlu/gallery.html</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <!-- Electronic City Specialities -->
+    <url>
+        <loc>https://rakshahospital.com/electroniccity/specialities/cardiology.html</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/electroniccity/specialities/general-medicine.html</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/electroniccity/specialities/general-surgery.html</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/electroniccity/specialities/neurology.html</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/electroniccity/specialities/obgyn.html</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/electroniccity/specialities/orthopedics.html</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/electroniccity/specialities/pediatrics.html</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/electroniccity/specialities/urology.html</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <!-- Kudlu Diseases/Specialities -->
+    <url>
+        <loc>https://rakshahospital.com/kudlu/Diseases/cardiology.html</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/kudlu/Diseases/diabetology.html</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/kudlu/Diseases/ent.html</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/kudlu/Diseases/gastroentrology.html</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/kudlu/Diseases/general_medicine.html</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/kudlu/Diseases/general_surgery.html</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/kudlu/Diseases/Obstetrics%20_Gynaecology.html</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/kudlu/Diseases/oncology.html</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/kudlu/Diseases/orthopedics.html</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/kudlu/Diseases/pediatrics.html</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/kudlu/Diseases/urology.html</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/kudlu/Diseases/vascular.html</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <!-- Blog Posts -->
+    <url>
+        <loc>https://rakshahospital.com/electroniccity/blogs/cardiac.html</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/electroniccity/blogs/cancer.html</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/electroniccity/blogs/Heart_Health.html</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/electroniccity/blogs/stress.html</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/kudlu/blogs/cardiac.html</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/kudlu/blogs/cancer.html</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/kudlu/blogs/Heart_Health.html</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/kudlu/blogs/stress.html</loc>
+        <lastmod>2025-10-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+</urlset>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 600" width="1600" height="600">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#E8F4FD"/>
+      <stop offset="100%" stop-color="#ffffff"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="-10%" r="90%">
+      <stop offset="0%" stop-color="#eaf5ff"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4A90E2"/>
+      <stop offset="100%" stop-color="#7ED321"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="600" fill="url(#bg)"/>
+  <rect width="1600" height="600" fill="url(#glow)"/>
+
+  <!-- Ambulance silhouette -->
+  <g transform="translate(350,380)" opacity="0.12">
+    <rect x="-180" y="-70" rx="14" ry="14" width="360" height="140" fill="#4A90E2"/>
+    <rect x="-150" y="-90" rx="10" ry="10" width="160" height="100" fill="#4A90E2"/>
+    <rect x="40" y="-40" width="200" height="80" rx="10" fill="#ffffff" opacity="0.9"/>
+    <circle cx="-80" cy="40" r="30" fill="#cfe3f7"/>
+    <circle cx="80" cy="40" r="30" fill="#cfe3f7"/>
+    <rect x="-20" y="-52" width="40" height="40" fill="url(#accent)" rx="6"/>
+    <rect x="-6" y="-44" width="12" height="24" fill="#fff"/>
+    <rect x="-20" y="-36" width="40" height="8" fill="#fff"/>
+  </g>
+
+  <!-- Waves -->
+  <path d="M0,470 C300,430 500,520 800,480 C1100,440 1300,520 1600,480 L1600,600 L0,600 Z" fill="#eef6ff"/>
+  <path d="M0,510 C320,470 520,560 820,520 C1120,480 1320,560 1600,520 L1600,600 L0,600 Z" fill="#e3f1ff"/>
+
+  <!-- Accents -->
+  <g opacity="0.2">
+    <rect x="1240" y="120" width="120" height="120" rx="20" fill="#4A90E2"/>
+    <rect x="1290" y="170" width="20" height="60" fill="#fff"/>
+    <rect x="1260" y="198" width="80" height="20" fill="#fff"/>
+  </g>
+</svg>
+
+
