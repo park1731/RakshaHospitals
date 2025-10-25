@@ -1,0 +1,53 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://rakshahospital.com/sitemap.xml
+
+# Allow crawling of both branches
+Allow: /electroniccity/
+Allow: /kudlu/
+
+# Allow important pages
+Allow: /electroniccity/about.html
+Allow: /electroniccity/doctors.html
+Allow: /electroniccity/specialities.html
+Allow: /electroniccity/appointment.html
+Allow: /electroniccity/contact.html
+Allow: /electroniccity/health-check.html
+Allow: /electroniccity/blogs.html
+Allow: /electroniccity/gallary.html
+
+Allow: /kudlu/about.html
+Allow: /kudlu/doctors.html
+Allow: /kudlu/specialities.html
+Allow: /kudlu/Appointment.html
+Allow: /kudlu/contact.html
+Allow: /kudlu/healthCheckups.html
+Allow: /kudlu/blog.html
+Allow: /kudlu/gallery.html
+
+# Allow speciality pages
+Allow: /electroniccity/specialities/
+Allow: /kudlu/Diseases/
+
+# Allow blog posts
+Allow: /electroniccity/blogs/
+Allow: /kudlu/blogs/
+
+# Allow images and assets
+Allow: /electroniccity/images/
+Allow: /electroniccity/css/
+Allow: /electroniccity/js/
+Allow: /kudlu/img/
+Allow: /kudlu/css/
+Allow: /kudlu/js/
+
+# Disallow admin or sensitive areas (if any)
+Disallow: /admin/
+Disallow: /private/
+Disallow: /temp/
+Disallow: /logs/
+
+# Crawl delay (optional - be respectful to server)
+Crawl-delay: 1

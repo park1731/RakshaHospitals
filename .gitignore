@@ -1,0 +1,16 @@
+# macOS system files
+.DS_Store
+
+# Node / dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# IDE / editor stuff
+.vscode/
+.idea/
+*.log
+
+# Backup files
+*.tmp
+*.bak

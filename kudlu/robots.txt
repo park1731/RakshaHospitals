@@ -1,0 +1,84 @@
+# Robots.txt for Raksha Hospital Kudlu Branch
+# https://rakshahospital.com/kudlu/
+
+# Allow all major search engines
+User-agent: *
+Allow: /
+
+# Allow all major search engines specifically
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+# Allow social media crawlers
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: WhatsApp
+Allow: /
+
+# Allow image crawlers
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot-Image
+Allow: /
+
+# Allow mobile crawlers
+User-agent: Googlebot-Mobile
+Allow: /
+
+# Disallow admin and private areas
+Disallow: /Bankend/
+Disallow: /mail/
+Disallow: /.git/
+Disallow: /css/
+Disallow: /js/
+Disallow: /fonts/
+
+# Disallow temporary and system files
+Disallow: /*.tmp$
+Disallow: /*.log$
+Disallow: /*.bak$
+Disallow: /*.swp$
+Disallow: /*.old$
+
+# Allow important content
+Allow: /*.html$
+Allow: /*.htm$
+Allow: /*.php$
+Allow: /img/
+Allow: /images/
+
+# Crawl delay for respectful crawling
+Crawl-delay: 1
+
+# Sitemap location
+Sitemap: https://rakshahospital.com/kudlu/sitemap.xml
+
+# Additional sitemaps if needed
+# Sitemap: https://rakshahospital.com/kudlu/sitemap-images.xml
+# Sitemap: https://rakshahospital.com/kudlu/sitemap-news.xml
+
+# Host directive
+Host: https://rakshahospital.com
