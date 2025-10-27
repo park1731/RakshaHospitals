@@ -1,0 +1,128 @@
+######################################################
+# 404 Fix - Redirect Rules for rakshahospital.com
+# Generated: 2025-10-27
+# Purpose: Fix 127 404 errors reported in GSC
+######################################################
+
+RewriteEngine On
+
+######################################################
+# 1. FORCE HTTPS (1 URL)
+######################################################
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+######################################################
+# 2. REMOVE WWW (4 URLs)
+######################################################
+RewriteCond %{HTTP_HOST} ^www\.rakshahospital\.com [NC]
+RewriteRule ^(.*)$ https://rakshahospital.com/$1 [L,R=301]
+
+######################################################
+# 3. OLD /raksha/ SUBDIRECTORY (52 URLs)
+# Redirect to /electroniccity/ since it's the main branch
+######################################################
+RedirectMatch 301 ^/raksha/index\.html$ /electroniccity/
+RedirectMatch 301 ^/raksha/about\.html$ /electroniccity/about.html
+RedirectMatch 301 ^/raksha/specialities\.html$ /electroniccity/specialities.html
+RedirectMatch 301 ^/raksha/Appointment\.html$ /electroniccity/appointment.html
+RedirectMatch 301 ^/raksha/contact\.html$ /electroniccity/contact.html
+RedirectMatch 301 ^/raksha/healthCheckups\.html$ /electroniccity/health-check.html
+RedirectMatch 301 ^/raksha/dotors\.html$ /electroniccity/doctors.html
+RedirectMatch 301 ^/raksha/gallery\.html$ /electroniccity/gallary.html
+RedirectMatch 301 ^/raksha/blog\.html$ /electroniccity/blogs.html
+RedirectMatch 301 ^/raksha/insights\.html$ /electroniccity/blogs.html
+
+# Raksha blogs to electroniccity blogs
+RedirectMatch 301 ^/raksha/blogs/(.*)$ /electroniccity/blogs/$1
+
+# Raksha Diseases to electroniccity specialities
+RedirectMatch 301 ^/raksha/Diseases/cardiology\.html$ /electroniccity/specialities/cardiology.html
+RedirectMatch 301 ^/raksha/Diseases/general_medicine\.html$ /electroniccity/specialities/general-medicine.html
+RedirectMatch 301 ^/raksha/Diseases/general_surgery\.html$ /electroniccity/specialities/general-surgery.html
+RedirectMatch 301 ^/raksha/Diseases/neurology\.html$ /electroniccity/specialities/neurology.html
+RedirectMatch 301 ^/raksha/Diseases/Obstetrics%20_Gynaecology\.html$ /electroniccity/specialities/obgyn.html
+RedirectMatch 301 ^/raksha/Diseases/Obstetrics _Gynaecology\.html$ /electroniccity/specialities/obgyn.html
+RedirectMatch 301 ^/raksha/Diseases/orthopedics\.html$ /electroniccity/specialities/orthopedics.html
+RedirectMatch 301 ^/raksha/Diseases/pediatrics\.html$ /electroniccity/specialities/pediatrics.html
+RedirectMatch 301 ^/raksha/Diseases/urology\.html$ /electroniccity/specialities/urology.html
+RedirectMatch 301 ^/raksha/Diseases/ent\.html$ /kudlu/Diseases/ent.html
+RedirectMatch 301 ^/raksha/Diseases/pulmonology\.html$ /kudlu/Diseases/vascular.html
+RedirectMatch 301 ^/raksha/Diseases/oncology\.html$ /kudlu/Diseases/oncology.html
+RedirectMatch 301 ^/raksha/Diseases/Nephrology\.html$ /kudlu/Diseases/urology.html
+RedirectMatch 301 ^/raksha/Diseases/gastroentrology\.html$ /kudlu/Diseases/gastroentrology.html
+RedirectMatch 301 ^/raksha/Diseases/skin_cosmetology\.html$ /kudlu/Diseases/general_medicine.html
+
+# Catch-all for any remaining raksha paths
+RedirectMatch 301 ^/raksha/(.*)$ /electroniccity/$1
+
+######################################################
+# 4. KUDLU BRANCH WITH SPACES (25 URLs)
+######################################################
+# Fix URL-encoded spaces (%20)
+RedirectMatch 301 "^/kudlu%20branch/(.*)$" /kudlu/$1
+# Fix unencoded spaces (in case)
+RedirectMatch 301 "^/kudlu branch/(.*)$" /kudlu/$1
+
+######################################################
+# 5. ROOT BLOGS TO ELECTRONICCITY BLOGS (24 URLs)
+# Redirect root-level blog/speciality URLs to electroniccity
+######################################################
+RedirectMatch 301 ^/blogs/(.*)$ /electroniccity/blogs/$1
+RedirectMatch 301 ^/specialities/(.*)$ /electroniccity/specialities/$1
+RedirectMatch 301 ^/health-check\.html$ /electroniccity/health-check.html
+
+######################################################
+# 6. ELECTRONICCITY WRONG BLOG STRUCTURE (14 URLs)
+# Remove /blogs/ from paths like /electroniccity/blogs/specialities/
+######################################################
+RedirectMatch 301 ^/electroniccity/blogs/specialities/(.*)$ /electroniccity/specialities/$1
+RedirectMatch 301 ^/electroniccity/blogs/appointment\.html$ /electroniccity/appointment.html
+RedirectMatch 301 ^/electroniccity/blogs/contact\.html$ /electroniccity/contact.html
+RedirectMatch 301 ^/electroniccity/blogs/doctors\.html$ /electroniccity/doctors.html
+RedirectMatch 301 ^/electroniccity/blogs/health-check\.html$ /electroniccity/health-check.html
+RedirectMatch 301 ^/electroniccity/blogs/specialities\.html$ /electroniccity/specialities.html
+RedirectMatch 301 ^/electroniccity/blogs/blogs\.html$ /electroniccity/blogs.html
+RedirectMatch 301 ^/electroniccity/blogs/index\.html$ /electroniccity/blogs.html
+
+######################################################
+# 7. LANGUAGE PATHS (2 URLs)
+# Hindi and Kannada language paths don't exist
+######################################################
+RedirectMatch 301 ^/electroniccity/hi/$ /electroniccity/
+RedirectMatch 301 ^/electroniccity/kn/$ /electroniccity/
+
+######################################################
+# 8. TYPOS (2 URLs)
+######################################################
+RedirectMatch 301 ^/(.*)/dotors\.html$ /$1/doctors.html
+
+######################################################
+# 9. DUPLICATE PATH SEGMENTS (4 URLs)
+######################################################
+RedirectMatch 301 ^/(.*)/DiseasesDiseases/(.*)$ /$1/Diseases/$2
+
+######################################################
+# 10. OLD KUDLU PATHS TO ROOT
+# Some old kudlu URLs without proper branch structure
+######################################################
+RedirectMatch 301 ^/kudlu/Diseases/about\.html$ /kudlu/about.html
+RedirectMatch 301 ^/kudlu/Diseases/contact\.html$ /kudlu/contact.html
+RedirectMatch 301 ^/kudlu/Diseases/dotors\.html$ /kudlu/doctors.html
+RedirectMatch 301 ^/kudlu/Diseases/neurology\.html$ /kudlu/Diseases/general_medicine.html
+RedirectMatch 301 ^/kudlu/Diseases/news-single\.html$ /kudlu/blog.html
+RedirectMatch 301 ^/kudlu/blogs/dotors\.html$ /kudlu/doctors.html
+RedirectMatch 301 ^/kudlu/blogs/about\.html$ /kudlu/about.html
+RedirectMatch 301 ^/kudlu/blogs/contact\.html$ /kudlu/contact.html
+RedirectMatch 301 ^/kudlu/blogs/index\.html$ /kudlu/blog.html
+
+######################################################
+# 11. PATH NORMALIZATION
+######################################################
+Redirect 301 /electronic-city/ /electroniccity/
+Redirect 301 /index /
+
+######################################################
+# 12. WWW PREFIX REMOVAL FROM OLD DOMAINS
+######################################################
+RedirectMatch 301 ^/Diseases/(.*)$ /kudlu/Diseases/$1
