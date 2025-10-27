@@ -1,7 +1,10 @@
 ######################################################
-# 404 Fix - Redirect Rules for rakshahospital.com
-# Generated: 2025-10-27
-# Purpose: Fix 127 404 errors reported in GSC
+# Redirect Rules for rakshahospital.com
+# Last Updated: 2025-10-27
+# Purpose: 
+# - Fix 127 404 errors
+# - Fix "Duplicate without canonical" error
+# - Fix "Page with redirect" error (5 URLs)
 ######################################################
 
 RewriteEngine On
@@ -17,6 +20,12 @@ RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 ######################################################
 RewriteCond %{HTTP_HOST} ^www\.rakshahospital\.com [NC]
 RewriteRule ^(.*)$ https://rakshahospital.com/$1 [L,R=301]
+
+######################################################
+# 2.5. REMOVE INDEX.HTML FROM ROOT AND ALL DIRECTORIES
+######################################################
+RewriteCond %{THE_REQUEST} ^.*/index\.html
+RewriteRule ^(.*)index\.html$ https://rakshahospital.com/$1 [R=301,L]
 
 ######################################################
 # 3. OLD /raksha/ SUBDIRECTORY (52 URLs)
