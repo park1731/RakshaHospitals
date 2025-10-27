@@ -5,32 +5,25 @@
     <!-- Main Domain - Electronic City Branch (Main Branch) -->
     <url>
         <loc>https://rakshahospital.com/</loc>
-        <lastmod>2025-10-23</lastmod>
+        <lastmod>2025-10-27</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rakshahospital.com/"/>
-        <xhtml:link rel="alternate" hreflang="hi" href="https://rakshahospital.com/electroniccity/hi/"/>
-        <xhtml:link rel="alternate" hreflang="kn" href="https://rakshahospital.com/electroniccity/kn/"/>
     </url>
     
     <!-- Electronic City Branch -->
     <url>
         <loc>https://rakshahospital.com/electroniccity/</loc>
-        <lastmod>2025-10-23</lastmod>
+        <lastmod>2025-10-27</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rakshahospital.com/electroniccity/"/>
-        <xhtml:link rel="alternate" hreflang="hi" href="https://rakshahospital.com/electroniccity/hi/"/>
-        <xhtml:link rel="alternate" hreflang="kn" href="https://rakshahospital.com/electroniccity/kn/"/>
     </url>
     
     <!-- Kudlu Branch -->
     <url>
         <loc>https://rakshahospital.com/kudlu/</loc>
-        <lastmod>2025-10-23</lastmod>
+        <lastmod>2025-10-27</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rakshahospital.com/kudlu/"/>
     </url>
     
     <!-- Electronic City Branch Pages -->
@@ -248,8 +241,8 @@
     </url>
     
     <url>
-        <loc>https://rakshahospital.com/kudlu/Diseases/Obstetrics%20_Gynaecology.html</loc>
-        <lastmod>2025-10-23</lastmod>
+        <loc>https://rakshahospital.com/kudlu/Diseases/Obstetrics_Gynaecology.html</loc>
+        <lastmod>2025-10-27</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
