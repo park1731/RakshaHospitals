@@ -282,59 +282,284 @@
         <priority>0.5</priority>
     </url>
     
-    <!-- Blog Posts -->
+    <!-- Electronic City Blog Posts -->
     <url>
-        <loc>https://rakshahospital.com/electroniccity/blogs/cardiac.html</loc>
-        <lastmod>2025-10-23</lastmod>
+        <loc>https://rakshahospital.com/electroniccity/blogs/Heart_Health.html</loc>
+        <lastmod>2025-10-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/electroniccity/blogs/aroatic.html</loc>
+        <lastmod>2025-10-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/electroniccity/blogs/arrhythmia.html</loc>
+        <lastmod>2025-10-27</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.4</priority>
     </url>
     
     <url>
         <loc>https://rakshahospital.com/electroniccity/blogs/cancer.html</loc>
-        <lastmod>2025-10-23</lastmod>
+        <lastmod>2025-10-27</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.4</priority>
     </url>
     
     <url>
-        <loc>https://rakshahospital.com/electroniccity/blogs/Heart_Health.html</loc>
-        <lastmod>2025-10-23</lastmod>
+        <loc>https://rakshahospital.com/electroniccity/blogs/cardiac.html</loc>
+        <lastmod>2025-10-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/electroniccity/blogs/cardiomapathy.html</loc>
+        <lastmod>2025-10-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/electroniccity/blogs/child_Health.html</loc>
+        <lastmod>2025-10-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/electroniccity/blogs/congential.html</loc>
+        <lastmod>2025-10-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/electroniccity/blogs/cronary.html</loc>
+        <lastmod>2025-10-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/electroniccity/blogs/dyslipidaemia.html</loc>
+        <lastmod>2025-10-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/electroniccity/blogs/echocardiogram.html</loc>
+        <lastmod>2025-10-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/electroniccity/blogs/excersizeHeart.html</loc>
+        <lastmod>2025-10-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/electroniccity/blogs/kidney_stone.html</loc>
+        <lastmod>2025-10-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/electroniccity/blogs/prostatist.html</loc>
+        <lastmod>2025-10-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/electroniccity/blogs/pumping.html</loc>
+        <lastmod>2025-10-27</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.4</priority>
     </url>
     
     <url>
         <loc>https://rakshahospital.com/electroniccity/blogs/stress.html</loc>
-        <lastmod>2025-10-23</lastmod>
+        <lastmod>2025-10-27</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.4</priority>
     </url>
     
     <url>
-        <loc>https://rakshahospital.com/kudlu/blogs/cardiac.html</loc>
-        <lastmod>2025-10-23</lastmod>
+        <loc>https://rakshahospital.com/electroniccity/blogs/thrombosis.html</loc>
+        <lastmod>2025-10-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/electroniccity/blogs/urethral.html</loc>
+        <lastmod>2025-10-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/electroniccity/blogs/uti.html</loc>
+        <lastmod>2025-10-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/electroniccity/blogs/vital.html</loc>
+        <lastmod>2025-10-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+    <!-- Kudlu Blog Posts -->
+    <url>
+        <loc>https://rakshahospital.com/kudlu/blogs/Heart_Health.html</loc>
+        <lastmod>2025-10-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/kudlu/blogs/aroatic.html</loc>
+        <lastmod>2025-10-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/kudlu/blogs/arrhythmia.html</loc>
+        <lastmod>2025-10-27</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.3</priority>
     </url>
     
     <url>
         <loc>https://rakshahospital.com/kudlu/blogs/cancer.html</loc>
-        <lastmod>2025-10-23</lastmod>
+        <lastmod>2025-10-27</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.3</priority>
     </url>
     
     <url>
-        <loc>https://rakshahospital.com/kudlu/blogs/Heart_Health.html</loc>
-        <lastmod>2025-10-23</lastmod>
+        <loc>https://rakshahospital.com/kudlu/blogs/cardiac.html</loc>
+        <lastmod>2025-10-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/kudlu/blogs/cardiomapathy.html</loc>
+        <lastmod>2025-10-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/kudlu/blogs/child_Health.html</loc>
+        <lastmod>2025-10-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/kudlu/blogs/congential.html</loc>
+        <lastmod>2025-10-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/kudlu/blogs/cronary.html</loc>
+        <lastmod>2025-10-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/kudlu/blogs/dyslipidaemia.html</loc>
+        <lastmod>2025-10-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/kudlu/blogs/echocardiogram.html</loc>
+        <lastmod>2025-10-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/kudlu/blogs/excersizeHeart.html</loc>
+        <lastmod>2025-10-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/kudlu/blogs/kidney_stone.html</loc>
+        <lastmod>2025-10-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/kudlu/blogs/prostatist.html</loc>
+        <lastmod>2025-10-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/kudlu/blogs/pumping.html</loc>
+        <lastmod>2025-10-27</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.3</priority>
     </url>
     
     <url>
         <loc>https://rakshahospital.com/kudlu/blogs/stress.html</loc>
-        <lastmod>2025-10-23</lastmod>
+        <lastmod>2025-10-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/kudlu/blogs/thrombosis.html</loc>
+        <lastmod>2025-10-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/kudlu/blogs/urethral.html</loc>
+        <lastmod>2025-10-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/kudlu/blogs/uti.html</loc>
+        <lastmod>2025-10-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>https://rakshahospital.com/kudlu/blogs/vital.html</loc>
+        <lastmod>2025-10-27</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.3</priority>
     </url>
