@@ -5,9 +5,16 @@
 # - Fix 127 404 errors
 # - Fix "Duplicate without canonical" error
 # - Fix "Page with redirect" error (5 URLs)
+# - Fix "Soft 404" error (proper HTTP status codes)
 ######################################################
 
 RewriteEngine On
+
+######################################################
+# ERROR PAGES WITH PROPER HTTP STATUS CODES
+######################################################
+ErrorDocument 404 /electroniccity/404.html
+ErrorDocument 500 /electroniccity/500.html
 
 ######################################################
 # 1. FORCE HTTPS (1 URL)
