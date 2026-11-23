@@ -78,6 +78,9 @@ PHOTOS = {
     'kudlu/corridor':         (f'{KU}/abt9.jpg', 1600, None),
     # Kudlu clinical work ("Insights"). X-ray films are cropped to remove the strip that carries the
     # patient's name, age, ID and date - never publish those.
+    # The uncropped originals of the three X-rays (inj1, inj4, inj5) are deliberately NOT kept in this project,
+    # because they show patient details. The cropped copies in assets/img stay as they are; to redo one, put the
+    # original back temporarily, run this script, and remove it again before committing.
     'kudlu/insights/knee-replacement-xray':  (f'{KU}/inj1.jpeg', 900, (0, 0, 1, .935)),
     'kudlu/insights/knee-surgery':           (f'{KU}/inj2.jpeg', 1200, None),
     'kudlu/insights/post-op-rounds':         (f'{KU}/inj7.jpeg', 1200, None),
@@ -148,6 +151,11 @@ def upright(src):
 
 
 def stale(src, dst):
+    if not os.path.exists(src):
+        # The original is not in the project (see the note on the X-ray films above). Keep the web-ready copy.
+        if os.path.exists(dst):
+            return False
+        raise SystemExit(f'Missing original photo: {os.path.relpath(src, ROOT)} (needed to create {os.path.relpath(dst, ROOT)})')
     return FORCE or not os.path.exists(dst) or os.path.getmtime(dst) < os.path.getmtime(src)
 
 
