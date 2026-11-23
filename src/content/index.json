@@ -1,0 +1,2214 @@
+{
+ "blogs": {
+  "Heart_Health": {
+   "slug": "Heart_Health",
+   "heading": "Heart Health",
+   "lede": "Small daily habits make a big difference.",
+   "cover": "../images/cardiac.webp",
+   "extraImages": [],
+   "title": "Heart Health Tips: Keep Your Heart Strong | Best Cardiologist in Bangalore & Electronic City | Raksha Hospital",
+   "description": "Expert heart health tips from top cardiologists at Raksha Hospital Bangalore & Electronic City. Learn diet, exercise, prevention, screening. Best cardiac care hospital Bangalore. Call +91-9494060671",
+   "keywords": "heart health tips, heart health Bangalore, cardiologist Electronic City, best cardiologist Bangalore, heart specialist Bengaluru, heart disease prevention Bangalore, cardiac care Electronic City, heart screening Bangalore, best cardiologist near me, heart hospital Electronic City, cardiac hospital Bangalore, heart diet tips, heart exercise, prevent heart disease, heart attack prevention, healthy heart lifestyle, cardiovascular health Bangalore, cardiology tips Electronic City",
+   "words": 43
+  },
+  "aroatic": {
+   "slug": "aroatic",
+   "heading": "Aortic Care",
+   "lede": "Expert treatment for aortic conditions and cardiovascular health.",
+   "cover": "../images/cardiac.webp",
+   "extraImages": [],
+   "title": "Aortic Disease Treatment: Aortic Aneurysm & Valve Care | Best Cardiac Surgeon in Bangalore & Electronic City | Raksha Hospital",
+   "description": "Expert aortic disease treatment at Raksha Hospital Bangalore & Electronic City. Aortic aneurysm, dissection, valve replacement surgery. Best cardiac surgeons. Call +91-9494060671",
+   "keywords": "aortic disease treatment Bangalore, aortic aneurysm treatment Bangalore, aortic valve replacement Bangalore, aortic dissection treatment Bangalore, best cardiac surgeon Bangalore, aortic surgery Electronic City, heart valve surgery Bangalore, aortic stenosis treatment Bangalore, thoracic aortic aneurysm Bangalore, abdominal aortic aneurysm Bangalore, aortic care Bangalore, cardiovascular surgery Bangalore, heart surgery Electronic City",
+   "words": 48
+  },
+  "arrhythmia": {
+   "slug": "arrhythmia",
+   "heading": "Arrhythmia",
+   "lede": "Understanding irregular heartbeats and their impact on your health.",
+   "cover": "../images/echocardiogram.webp",
+   "extraImages": [],
+   "title": "Arrhythmia Treatment: Irregular Heartbeat Care | Best Cardiologist in Bangalore & Electronic City | Raksha Hospital",
+   "description": "Expert arrhythmia treatment at Raksha Hospital Bangalore & Electronic City. Learn symptoms, causes, diagnosis. Best cardiac care for irregular heartbeat. Call +91-9494060671",
+   "keywords": "arrhythmia treatment Bangalore, irregular heartbeat Bangalore, arrhythmia symptoms, best cardiologist Bangalore, cardiac arrhythmia Electronic City, heart rhythm disorder Bangalore, atrial fibrillation treatment Bangalore, palpitations treatment Bangalore, heart rate problems Bangalore, arrhythmia specialist Bangalore",
+   "words": 851
+  },
+  "cancer": {
+   "slug": "cancer",
+   "heading": "Understanding Cancer: A Comprehensive Guide",
+   "lede": "Knowledge is power in the fight against cancer. Learn about prevention, early detection, and treatment options.",
+   "cover": "../images/cancer.webp",
+   "extraImages": [],
+   "title": "Cancer Treatment & Care in Bangalore | Best Oncology Hospital | Electronic City | Raksha Hospital",
+   "description": "Comprehensive cancer treatment at Raksha Hospital Bangalore & Electronic City. Oncology care, chemotherapy, screening. Best oncologists. Call +91-9494060671",
+   "keywords": "cancer treatment Bangalore, best oncology hospital Bangalore, cancer care Electronic City, oncologist Bangalore, chemotherapy Bangalore, cancer screening Bangalore, cancer hospital Bengaluru, oncology care Bangalore, radiation therapy Bangalore, cancer prevention Bangalore, best oncologist Bangalore, cancer diagnosis Bangalore",
+   "words": 1151
+  },
+  "cardiac": {
+   "slug": "cardiac",
+   "heading": "Cardiac Care",
+   "lede": "Expert heart treatment and comprehensive cardiac services.",
+   "cover": "../images/cardiac.webp",
+   "extraImages": [],
+   "title": "Cardiac Care & Heart Treatment | Best Cardiac Hospital in Bangalore & Electronic City | Raksha Hospital",
+   "description": "Expert cardiac care at Raksha Hospital - Best cardiac hospital in Bangalore & Electronic City. Heart treatment, cardiac surgery, ECG, Echo, angioplasty. Top cardiologists. Call +91-9494060671",
+   "keywords": "cardiac care Bangalore, cardiac care Electronic City, best cardiac hospital Bangalore, cardiologist Electronic City, heart treatment Bengaluru, cardiac surgery Bangalore, heart specialist Bangalore, cardiac hospital Electronic City, heart disease treatment Bangalore, cardiology services Bangalore, best heart hospital Bangalore, cardiac care near me, heart care Electronic City, cardiology hospital Bangalore",
+   "words": 43
+  },
+  "cardiomapathy": {
+   "slug": "cardiomapathy",
+   "heading": "Cardiomyopathy",
+   "lede": "Expert treatment for heart muscle disease and cardiac conditions.",
+   "cover": "../images/cardiac.webp",
+   "extraImages": [],
+   "title": "Cardiomyopathy Treatment: Heart Muscle Disease Care | Best Cardiac Hospital in Bangalore & Electronic City | Raksha Hospital",
+   "description": "Expert cardiomyopathy treatment at Raksha Hospital Bangalore & Electronic City. Comprehensive care for heart muscle disease, diagnosis, management. Best cardiologists. Call +91-9494060671",
+   "keywords": "cardiomyopathy treatment Bangalore, heart muscle disease Bangalore, cardiomyopathy care Electronic City, best cardiologist Bangalore, heart specialist Bengaluru, cardiac care Bangalore, heart disease treatment Bangalore, cardiology services Bangalore, dilated cardiomyopathy treatment Bangalore, hypertrophic cardiomyopathy Bangalore, heart failure Bangalore",
+   "words": 47
+  },
+  "child_Health": {
+   "slug": "child_Health",
+   "heading": "Complete Guide to Child Health & Development",
+   "lede": "Expert guidance on growth milestones, nutrition, and immunization for your child's healthy future.",
+   "cover": "../images/hero-3.svg",
+   "extraImages": [],
+   "title": "Child Health Tips | Best Pediatrician in Bangalore & Electronic City | Vaccination & Growth | Raksha Hospital",
+   "description": "Expert child health tips from best pediatricians at Raksha Hospital Bangalore & Electronic City. Vaccination, nutrition, growth monitoring, child development. Call +91-9494060671",
+   "keywords": "child health tips Bangalore, best pediatrician Bangalore, child health Electronic City, vaccination Bangalore, pediatric care Bangalore, child nutrition Bangalore, immunization schedule Bangalore, growth milestones Bangalore, pediatrician Electronic City, child development Bangalore, baby health Bangalore, best children's doctor Bangalore",
+   "words": 690
+  },
+  "congential": {
+   "slug": "congential",
+   "heading": "Complete Guide to Congenital Heart Disease: Detection, Treatment & Care",
+   "lede": "Expert congenital heart disease treatment in Electronic City, Bengaluru. Early detection and advanced treatments for children with CHD.",
+   "cover": "../images/hero-2.svg",
+   "extraImages": [],
+   "title": "Congenital Heart Disease Treatment | Best Pediatric Cardiologist in Bangalore & Electronic City | Raksha Hospital",
+   "description": "Expert congenital heart disease (CHD) treatment at Raksha Hospital Bangalore & Electronic City. Pediatric cardiac surgery, heart defects. Best pediatric cardiologists. Call +91-9494060671",
+   "keywords": "congenital heart disease treatment Bangalore, pediatric cardiologist Bangalore, CHD treatment Electronic City, congenital heart defects Bangalore, pediatric cardiac surgery Bangalore, children's heart care Bangalore, heart defect surgery Bangalore, pediatric cardiology Bangalore, best pediatric cardiologist Bangalore, newborn heart problems Bangalore, pediatric heart surgery Bangalore, children's hospital Bangalore, congenital heart specialist Bangalore",
+   "words": 513
+  },
+  "cronary": {
+   "slug": "cronary",
+   "heading": "Coronary Artery Disease (CAD)",
+   "lede": "Understanding plaque buildup in heart arteries and preventing life-threatening complications through early detection and treatment.",
+   "cover": "../images/cronory.webp",
+   "extraImages": [],
+   "title": "Coronary Artery Disease Treatment | CAD Care | Best Cardiologist in Bangalore & Electronic City | Raksha Hospital",
+   "description": "Expert coronary artery disease (CAD) treatment at Raksha Hospital Bangalore & Electronic City. Angioplasty, bypass surgery, heart blockage care. Best cardiologists. Call +91-9494060671",
+   "keywords": "coronary artery disease treatment Bangalore, CAD treatment Bangalore, heart blockage treatment Bangalore, angioplasty Bangalore, bypass surgery Bangalore, best cardiologist Bangalore, coronary artery disease Electronic City, heart disease treatment Bangalore, atherosclerosis treatment Bangalore, chest pain treatment Bangalore, heart attack prevention Bangalore, cardiac care Bangalore, coronary angiography Bangalore, stent placement Bangalore",
+   "words": 1085
+  },
+  "dyslipidaemia": {
+   "slug": "dyslipidaemia",
+   "heading": "Complete Guide to Dyslipidaemia: Cholesterol & Triglyceride Management",
+   "lede": "Expert dyslipidaemia treatment in Electronic City, Bengaluru. Learn about cholesterol management and heart disease prevention strategies.",
+   "cover": "../images/hero-1.svg",
+   "extraImages": [],
+   "title": "Dyslipidaemia Treatment: Cholesterol Management | Best Cardiologist in Bangalore & Electronic City | Raksha Hospital",
+   "description": "Expert dyslipidaemia treatment & cholesterol management at Raksha Hospital Bangalore & Electronic City. Control high cholesterol, reduce heart disease risk. Best cardiologists. Call +91-9494060671",
+   "keywords": "dyslipidaemia treatment Bangalore, cholesterol management Bangalore, high cholesterol treatment Bangalore, lipid disorder treatment Bangalore, best cardiologist Bangalore, cholesterol clinic Electronic City, hyperlipidemia treatment Bangalore, triglycerides treatment Bangalore, heart disease prevention Bangalore, cholesterol diet Bangalore, lipid profile test Bangalore, cardiovascular health Bangalore",
+   "words": 680
+  },
+  "echocardiogram": {
+   "slug": "echocardiogram",
+   "heading": "Echocardiogram Test",
+   "lede": "Advanced heart ultrasound testing for accurate cardiac diagnosis.",
+   "cover": "../images/cardiac.webp",
+   "extraImages": [],
+   "title": "Echocardiogram Test in Bangalore & Electronic City | 2D Echo | Best Cardiac Diagnostic Center | Raksha Hospital",
+   "description": "Advanced echocardiogram (echo) test at Raksha Hospital Bangalore & Electronic City. 2D echo, 3D echo, stress echo, doppler. Best cardiac diagnostic center. Call +91-9494060671",
+   "keywords": "echocardiogram Bangalore, echo test Electronic City, 2D echo Bangalore, heart ultrasound Bangalore, cardiac diagnostic center Bangalore, echocardiography Bangalore, stress echo test Bangalore, doppler echo Bangalore, 3D echo Bangalore, heart function test Bangalore, cardiac imaging Bangalore, echo test near me, best cardiology center Bangalore, heart valve test Bangalore",
+   "words": 100
+  },
+  "excersizeHeart": {
+   "slug": "excersizeHeart",
+   "heading": "Exercise & Heart Health",
+   "lede": "Safe and effective workouts to strengthen your cardiovascular system and improve overall fitness.",
+   "cover": "../images/pumpingLife.webp",
+   "extraImages": [],
+   "title": "Exercise for Heart Health | Cardiac Rehabilitation in Bangalore & Electronic City | Raksha Hospital",
+   "description": "Expert cardiac rehabilitation & exercise programs at Raksha Hospital Bangalore & Electronic City. Safe heart workouts, cardiovascular fitness. Best cardiology care. Call +91-9494060671",
+   "keywords": "exercise for heart health Bangalore, cardiac rehabilitation Bangalore, heart healthy exercise Bangalore, cardiovascular fitness Bangalore, post-heart attack exercise Bangalore, cardiac fitness program Bangalore, heart exercise Electronic City, safe workouts for heart Bangalore, aerobic exercise heart health, cardiac rehab center Bangalore, heart fitness Bangalore, exercise stress test Bangalore",
+   "words": 637
+  },
+  "kidney_stone": {
+   "slug": "kidney_stone",
+   "heading": "Complete Guide to Kidney Stones: Symptoms, Treatment & Prevention",
+   "lede": "Expert kidney stone treatment in Electronic City, Bengaluru. Learn about advanced procedures and prevention strategies.",
+   "cover": "../images/hero-2.svg",
+   "extraImages": [],
+   "title": "Kidney Stone Treatment in Bangalore & Electronic City | Best Urologist | Lithotripsy | Raksha Hospital",
+   "description": "Expert kidney stone treatment at Raksha Hospital Bangalore & Electronic City. Lithotripsy, PCNL, laser surgery, kidney stone removal. Best urologists. Call +91-9494060671",
+   "keywords": "kidney stone treatment Bangalore, kidney stone removal Bangalore, best urologist Bangalore, lithotripsy Bangalore, PCNL surgery Bangalore, laser kidney stone surgery Bangalore, kidney stone hospital Electronic City, urology hospital Bangalore, kidney stone specialist Bangalore, renal calculi treatment Bangalore, ureter stone removal Bangalore, kidney stone prevention Bangalore",
+   "words": 430
+  },
+  "prostatist": {
+   "slug": "prostatist",
+   "heading": "Complete Guide to Prostatitis: Prostate Inflammation Treatment",
+   "lede": "Expert prostatitis treatment in Electronic City, Bengaluru. Learn about causes, symptoms, and advanced treatment options for prostate inflammation.",
+   "cover": "../images/hero-3.svg",
+   "extraImages": [],
+   "title": "Prostatitis Treatment in Bangalore & Electronic City | Best Urologist | Prostate Care | Raksha Hospital",
+   "description": "Expert prostatitis treatment at Raksha Hospital Bangalore & Electronic City. Prostate infection care, diagnosis, treatment. Best urologists. Call +91-9494060671",
+   "keywords": "prostatitis treatment Bangalore, prostate infection treatment Bangalore, best urologist Bangalore, prostate inflammation Electronic City, prostate care Bangalore, urology specialist Bangalore, chronic prostatitis treatment Bangalore, acute prostatitis Bangalore, pelvic pain treatment Bangalore, prostate health Bangalore, urinary problems Bangalore",
+   "words": 769
+  },
+  "pumping": {
+   "slug": "pumping",
+   "heading": "Heart Pumping Function",
+   "lede": "Understanding ejection fraction and how to maintain optimal heart efficiency for a healthy cardiovascular system.",
+   "cover": "../images/exercize.webp",
+   "extraImages": [],
+   "title": "Heart Pumping Function Assessment | Ejection Fraction Test | Best Cardiac Care in Bangalore & Electronic City | Raksha Hospital",
+   "description": "Expert heart pumping function assessment at Raksha Hospital Bangalore & Electronic City. Ejection fraction test, cardiac function tests, heart failure treatment. Best cardiologists. Call +91-9494060671",
+   "keywords": "heart function test Bangalore, ejection fraction test Bangalore, cardiac assessment Bangalore, heart pumping problems Bangalore, cardiac function test Electronic City, heart failure treatment Bangalore, best cardiologist Bangalore, echocardiogram Bangalore, cardiac output test Bangalore, heart efficiency Bangalore, ventricular function test Bangalore",
+   "words": 742
+  },
+  "stress": {
+   "slug": "stress",
+   "heading": "Stress Management for Better Health",
+   "lede": "Learn effective techniques to reduce stress, protect your heart, and improve your overall mental and physical well-being.",
+   "cover": "../images/stress.webp",
+   "extraImages": [],
+   "title": "Stress Management & Mental Health Care in Bangalore | Best Psychiatrist | Electronic City | Raksha Hospital",
+   "description": "Expert stress management & mental health care at Raksha Hospital Bangalore & Electronic City. Counseling, therapy by best psychiatrists, stress relief. Call +91-9494060671",
+   "keywords": "stress management Bangalore, mental health care Bangalore, best psychiatrist Bangalore, stress treatment Electronic City, anxiety treatment Bangalore, counseling Bangalore, therapy Bangalore, stress relief Bangalore, mental wellness Bangalore, psychiatry services Bangalore, stress clinic Bangalore, anxiety management Bangalore",
+   "words": 742
+  },
+  "thrombosis": {
+   "slug": "thrombosis",
+   "heading": "Understanding Thrombosis",
+   "lede": "Comprehensive guide to blood clots, DVT, and pulmonary embolism - recognize early, act fast.",
+   "cover": "../images/hero-2.svg",
+   "extraImages": [],
+   "title": "Thrombosis Treatment: Blood Clot & DVT Care | Best Vascular Specialist in Bangalore & Electronic City | Raksha Hospital",
+   "description": "Expert thrombosis & blood clot treatment at Raksha Hospital Bangalore & Electronic City. DVT, pulmonary embolism care. Best vascular specialists. Call +91-9494060671",
+   "keywords": "thrombosis treatment Bangalore, blood clot treatment Bangalore, deep vein thrombosis treatment Bangalore, DVT treatment Bangalore, pulmonary embolism treatment Bangalore, vascular specialist Bangalore, blood clot care Electronic City, thrombosis prevention Bangalore, anticoagulation therapy Bangalore, vascular surgeon Bangalore, clotting disorder treatment Bangalore, leg blood clot Bangalore",
+   "words": 1027
+  },
+  "urethral": {
+   "slug": "urethral",
+   "heading": "Understanding Urethral Stricture",
+   "lede": "Comprehensive guide to urethral narrowing: causes, symptoms, diagnosis, and advanced treatment options.",
+   "cover": "../images/hero-2.svg",
+   "extraImages": [],
+   "title": "Urethral Stricture Treatment in Bangalore & Electronic City | Best Urologist | Urethroplasty | Raksha Hospital",
+   "description": "Expert urethral stricture treatment at Raksha Hospital Bangalore & Electronic City. Urethroplasty, urethral dilation, urology surgery. Best urologists. Call +91-9494060671",
+   "keywords": "urethral stricture treatment Bangalore, urethroplasty Bangalore, best urologist Bangalore, urethral dilation Electronic City, urology surgery Bangalore, urethra narrowing treatment Bangalore, urologist Electronic City, urinary problems Bangalore, urethral surgery Bangalore, urology hospital Bangalore, urethral reconstruction Bangalore",
+   "words": 1112
+  },
+  "uti": {
+   "slug": "uti",
+   "heading": "Urinary Tract Infection (UTI)",
+   "lede": "Recognize the signs early and get effective treatment for urinary tract infections. Expert urology care for optimal urinary health.",
+   "cover": "../images/uti.webp",
+   "extraImages": [],
+   "title": "UTI Treatment in Bangalore & Electronic City | Best Urologist | Urinary Tract Infection Care | Raksha Hospital",
+   "description": "Expert UTI (urinary tract infection) treatment at Raksha Hospital Bangalore & Electronic City. Fast diagnosis, effective care. Best urologists. Call +91-9494060671",
+   "keywords": "UTI treatment Bangalore, urinary tract infection treatment Bangalore, best urologist Bangalore, UTI hospital Electronic City, bladder infection treatment Bangalore, kidney infection treatment Bangalore, urology care Bangalore, UTI symptoms Bangalore, UTI prevention Bangalore, recurrent UTI treatment Bangalore, urinary infection specialist Bangalore",
+   "words": 927
+  },
+  "vital": {
+   "slug": "vital",
+   "heading": "Vital Signs",
+   "lede": "Understanding BP, pulse, temperature, and respiration for better health monitoring.",
+   "cover": "../images/hero-3.svg",
+   "extraImages": [],
+   "title": "Understanding Vital Signs | Health Checkup in Bangalore & Electronic City | Raksha Hospital",
+   "description": "Learn about vital signs & get comprehensive health checkups at Raksha Hospital Bangalore & Electronic City. Blood pressure, pulse monitoring, preventive care. Call +91-9494060671",
+   "keywords": "vital signs monitoring Bangalore, health checkup Bangalore, blood pressure monitoring Bangalore, health screening Electronic City, preventive health Bangalore, medical checkup Bangalore, vital signs test Bangalore, health assessment Bangalore, blood pressure clinic Bangalore, health monitoring Bangalore, wellness checkup Bangalore",
+   "words": 689
+  }
+ },
+ "blogCardsEC": {
+  "Heart_Health": {
+   "cardTitle": "Heart Health",
+   "blurb": "Tips and insights to keep your heart healthy and strong.",
+   "cardImg": "images/cardiac.webp",
+   "tags": [
+    "Heart Care",
+    "Wellness Tips",
+    "Preventive Care"
+   ],
+   "points": [
+    "Heart health maintenance tips",
+    "Preventive care strategies",
+    "Lifestyle recommendations",
+    "Wellness insights"
+   ]
+  },
+  "cardiac": {
+   "cardTitle": "Cardiac Care",
+   "blurb": "Understanding common heart conditions and treatments.",
+   "cardImg": "images/cardiac.webp",
+   "tags": [
+    "Cardiac Conditions",
+    "Treatment Options",
+    "Heart Care"
+   ],
+   "points": [
+    "Common heart conditions",
+    "Treatment approaches",
+    "Cardiac care insights",
+    "Medical guidance"
+   ]
+  },
+  "arrhythmia": {
+   "cardTitle": "Arrhythmia",
+   "blurb": "What irregular heartbeat means and when to seek care.",
+   "cardImg": "images/echocardiogram.webp",
+   "tags": [
+    "Irregular Heartbeat",
+    "Warning Signs",
+    "When to Seek Care"
+   ],
+   "points": [
+    "Irregular heartbeat causes",
+    "Warning signs & symptoms",
+    "When to seek medical care",
+    "Treatment options"
+   ]
+  },
+  "cardiomapathy": {
+   "cardTitle": "Cardiomyopathy",
+   "blurb": "Causes, symptoms, and management of weakened heart muscles.",
+   "cardImg": "images/cardiomaphy.webp",
+   "tags": [
+    "Weakened Heart",
+    "Causes & Symptoms",
+    "Management"
+   ],
+   "points": [
+    "Causes of weakened heart",
+    "Common symptoms",
+    "Management strategies",
+    "Treatment approaches"
+   ]
+  },
+  "aroatic": {
+   "cardTitle": "Aortic Disease",
+   "blurb": "Know the risks and treatment options for aortic conditions.",
+   "cardImg": "images/cronory.webp",
+   "tags": [
+    "Aortic Conditions",
+    "Risk Factors",
+    "Treatment Options"
+   ],
+   "points": [
+    "Aortic condition risks",
+    "Risk factor identification",
+    "Treatment approaches",
+    "Prevention strategies"
+   ]
+  },
+  "cronary": {
+   "cardTitle": "Coronary Artery Disease",
+   "blurb": "How plaque builds up and how to prevent heart attacks.",
+   "cardImg": "images/cronory.webp",
+   "tags": [
+    "Plaque Buildup",
+    "Heart Attack Prevention",
+    "Treatment"
+   ],
+   "points": [
+    "Plaque buildup process",
+    "Heart attack prevention",
+    "Risk factor management",
+    "Treatment strategies"
+   ]
+  },
+  "echocardiogram": {
+   "cardTitle": "Echocardiogram",
+   "blurb": "A look at the ultrasound test that assesses heart function.",
+   "cardImg": "images/echocardiogram.webp",
+   "tags": [
+    "Ultrasound Test",
+    "Heart Function",
+    "Diagnostic Tool"
+   ],
+   "points": [
+    "Ultrasound heart test",
+    "Heart function assessment",
+    "Diagnostic capabilities",
+    "Test preparation"
+   ]
+  },
+  "dyslipidaemia": {
+   "cardTitle": "Dyslipidaemia",
+   "blurb": "Understanding cholesterol and triglycerides for heart health.",
+   "cardImg": "images/Dyslipidaemia.webp",
+   "tags": [
+    "Cholesterol",
+    "Heart Health",
+    "Management"
+   ],
+   "points": [
+    "Cholesterol understanding",
+    "Triglyceride management",
+    "Heart health impact",
+    "Treatment approaches"
+   ]
+  },
+  "cancer": {
+   "cardTitle": "Cancer Awareness",
+   "blurb": "Early detection and prevention strategies you should know.",
+   "cardImg": "images/cancer.webp",
+   "tags": [
+    "Early Detection",
+    "Prevention",
+    "Strategies"
+   ],
+   "points": [
+    "Early detection methods",
+    "Prevention strategies",
+    "Risk factor awareness",
+    "Screening guidelines"
+   ]
+  },
+  "child_Health": {
+   "cardTitle": "Child Health",
+   "blurb": "Growth, nutrition, and vaccination essentials for children.",
+   "cardImg": "images/childHealth.webp",
+   "tags": [
+    "Growth & Development",
+    "Nutrition",
+    "Vaccinations"
+   ],
+   "points": [
+    "Child growth monitoring",
+    "Nutritional guidance",
+    "Vaccination schedules",
+    "Development milestones"
+   ]
+  },
+  "congential": {
+   "cardTitle": "Congenital Heart Disease",
+   "blurb": "Congenital defects explained with modern care options.",
+   "cardImg": "images/cognetial.webp",
+   "tags": [
+    "Congenital Defects",
+    "Modern Care",
+    "Treatment Options"
+   ],
+   "points": [
+    "Congenital defect types",
+    "Modern care approaches",
+    "Treatment options",
+    "Long-term management"
+   ]
+  },
+  "excersizeHeart": {
+   "cardTitle": "Exercise & Heart",
+   "blurb": "Safe and effective workouts for a healthy heart.",
+   "cardImg": "images/pumpingLife.webp",
+   "tags": [
+    "Safe Workouts",
+    "Heart Health",
+    "Effective Exercise"
+   ],
+   "points": [
+    "Safe workout routines",
+    "Heart-healthy exercises",
+    "Effective fitness strategies",
+    "Cardiac exercise guidelines"
+   ]
+  },
+  "kidney_stone": {
+   "cardTitle": "Kidney Stones",
+   "blurb": "Causes, symptoms, and treatments for kidney stones.",
+   "cardImg": "images/kidney.webp",
+   "tags": [
+    "Kidney Health",
+    "Causes & Symptoms",
+    "Treatments"
+   ],
+   "points": [
+    "Kidney stone causes",
+    "Common symptoms",
+    "Treatment approaches",
+    "Prevention strategies"
+   ]
+  },
+  "prostatist": {
+   "cardTitle": "Prostatitis",
+   "blurb": "Understanding prostate inflammation and its management.",
+   "cardImg": "images/prostatitis.webp",
+   "tags": [
+    "Prostate Health",
+    "Inflammation",
+    "Management"
+   ],
+   "points": [
+    "Prostate inflammation",
+    "Common symptoms",
+    "Management strategies",
+    "Treatment options"
+   ]
+  },
+  "stress": {
+   "cardTitle": "Stress Management",
+   "blurb": "Simple techniques to reduce stress and improve wellbeing.",
+   "cardImg": "images/stress.webp",
+   "tags": [
+    "Stress Reduction",
+    "Wellbeing",
+    "Techniques"
+   ],
+   "points": [
+    "Stress reduction techniques",
+    "Wellbeing improvement",
+    "Simple management strategies",
+    "Lifestyle modifications"
+   ]
+  },
+  "thrombosis": {
+   "cardTitle": "Thrombosis",
+   "blurb": "Blood clots: risks, symptoms, and preventive care.",
+   "cardImg": "images/dvt.webp",
+   "tags": [
+    "Blood Clots",
+    "Risk Factors",
+    "Preventive Care"
+   ],
+   "points": [
+    "Blood clot risks",
+    "Common symptoms",
+    "Preventive measures",
+    "Treatment options"
+   ]
+  },
+  "pumping": {
+   "cardTitle": "Heart Pumping Function",
+   "blurb": "How the heart pumps and what affects its efficiency.",
+   "cardImg": "images/exercize.webp",
+   "tags": [
+    "Heart Function",
+    "Pumping Mechanism",
+    "Efficiency Factors"
+   ],
+   "points": [
+    "Heart pumping mechanism",
+    "Efficiency factors",
+    "Function optimization",
+    "Health maintenance"
+   ]
+  },
+  "uti": {
+   "cardTitle": "Urinary Tract Infection (UTI)",
+   "blurb": "Signs, treatment, and prevention of UTIs.",
+   "cardImg": "images/uti.webp",
+   "tags": [
+    "UTI Signs",
+    "Treatment",
+    "Prevention"
+   ],
+   "points": [
+    "UTI signs & symptoms",
+    "Treatment approaches",
+    "Prevention strategies",
+    "Risk factor management"
+   ]
+  },
+  "urethral": {
+   "cardTitle": "Urethral Stricture",
+   "blurb": "What is urethral stricture and how it’s treated.",
+   "cardImg": "images/uthral.webp",
+   "tags": [
+    "Blockage",
+    "Urination Issues",
+    "Treatment Options",
+    "Causes"
+   ],
+   "points": [
+    "Causes and risk factors",
+    "Symptoms and complications",
+    "Diagnostic procedures",
+    "Treatment and surgical options"
+   ]
+  },
+  "vital": {
+   "cardTitle": "Vital Signs",
+   "blurb": "Understanding BP, pulse, temperature, and respiration.",
+   "cardImg": "images/vital.webp",
+   "tags": [
+    "Heart Rate",
+    "Blood Pressure",
+    "Temperature",
+    "Respiration"
+   ],
+   "points": [
+    "Importance of vital signs",
+    "Normal ranges and variations",
+    "Monitoring techniques",
+    "Early detection of health issues"
+   ]
+  }
+ },
+ "blogCardsKudlu": {
+  "Heart_Health": {
+   "cardTitle": "Tips for a Healthy Heart",
+   "blurb": "Learn how to maintain a healthy heart and reduce the risk of cardiovascular diseases.",
+   "cardImg": "img/heart.webp"
+  },
+  "child_Health": {
+   "cardTitle": "Essential Child Healthcare Tips",
+   "blurb": "Discover the best practices to keep your child safe from common infections.",
+   "cardImg": "img/childHealth.webp"
+  },
+  "stress": {
+   "cardTitle": "Managing Stress & Mental Health",
+   "blurb": "Simple yet effective ways to manage stress and improve mental well-being.",
+   "cardImg": "img/stress.webp"
+  },
+  "vital": {
+   "cardTitle": "Fractional Flow Reserve: A Vital Tool",
+   "blurb": "FFR is an advanced diagnostic tool for coronary artery disease.",
+   "cardImg": "img/ffr.webp"
+  },
+  "cardiac": {
+   "cardTitle": "Revolutionizing Cardiac Care",
+   "blurb": "Intravascular Lithotripsy (IVL) - A new treatment for cardiovascular disease.",
+   "cardImg": "img/cardiac.webp"
+  },
+  "aroatic": {
+   "cardTitle": "Transcatheter Aortic Valve Replacement (TAVR)",
+   "blurb": "A minimally invasive treatment for aortic valve disease.",
+   "cardImg": "img/tatv.webp"
+  },
+  "thrombosis": {
+   "cardTitle": "Deep Vein Thrombosis (DVT)",
+   "blurb": "DVT can be dangerous if left untreated. Know its symptoms.",
+   "cardImg": "img/dvt.webp"
+  },
+  "congential": {
+   "cardTitle": "Congenital Heart Disease",
+   "blurb": "A condition affecting the heart’s structure since birth.",
+   "cardImg": "img/cognetial.webp"
+  },
+  "cardiomapathy": {
+   "cardTitle": "Understanding Cardiomyopathy",
+   "blurb": "A guide to understanding causes, symptoms, and treatments.",
+   "cardImg": "img/cardiomaphy.webp"
+  },
+  "echocardiogram": {
+   "cardTitle": "The Echocardiogram Procedure",
+   "blurb": "Learn what to expect when undergoing an echocardiogram.",
+   "cardImg": "img/echocardiogram.webp"
+  },
+  "dyslipidaemia": {
+   "cardTitle": "Dyslipidaemia: Understanding Cholesterol Levels",
+   "blurb": "Learn about abnormal cholesterol levels and their impact.",
+   "cardImg": "img/Dyslipidaemia.webp"
+  },
+  "cronary": {
+   "cardTitle": "Know More About Coronary Artery Disease",
+   "blurb": "A condition affecting coronary arteries and heart health.",
+   "cardImg": "img/cronory.webp"
+  },
+  "excersizeHeart": {
+   "cardTitle": "The Power of Exercise in Heart Health",
+   "blurb": "Understand the profound impact of exercise on heart health.",
+   "cardImg": "img/exercize.webp"
+  },
+  "cancer": {
+   "cardTitle": "Insights into Prostate Cancer",
+   "blurb": "An overview of prostate cancer and its impact.",
+   "cardImg": "img/cancer.webp"
+  },
+  "kidney_stone": {
+   "cardTitle": "Coping with Kidney Stones",
+   "blurb": "Understand causes, symptoms, and treatment options.",
+   "cardImg": "img/kidney.webp"
+  },
+  "prostatist": {
+   "cardTitle": "Prostatitis: Causes and Treatments",
+   "blurb": "Understanding prostate inflammation and management.",
+   "cardImg": "img/prostatitis.webp"
+  },
+  "urethral": {
+   "cardTitle": "Urethral Stricture: Narrowing the Flow",
+   "blurb": "Learn about urethral stricture and its symptoms.",
+   "cardImg": "img/uthral.webp"
+  },
+  "pumping": {
+   "cardTitle": "Pumping Life into Your Heart",
+   "blurb": "Your heart tirelessly beats to keep you alive. Show gratitude through exercise.",
+   "cardImg": "img/pumpingLife.webp"
+  },
+  "uti": {
+   "cardTitle": "A Closer Look at Chronic UTI",
+   "blurb": "Learn about chronic urinary tract infections and their causes.",
+   "cardImg": "img/uti.webp"
+  }
+ },
+ "kudluBlogs": {
+  "Heart_Health": {
+   "slug": "Heart_Health",
+   "heading": "Healthy Heart Blog",
+   "cover": "../img/heart.webp",
+   "category": "Heart Surgery",
+   "date": "April 20, 2019",
+   "title": "Heart Health Tips: Keep Your Heart Strong | Best Cardiologist in Bangalore & Kudlu | Raksha Hospital",
+   "description": "Expert heart health tips from top cardiologists at Raksha Hospital Bangalore & Kudlu. Learn diet, exercise, prevention near HSR Layout. Call +91-8050222777",
+   "keywords": "heart health tips Bangalore, heart health Kudlu, best cardiologist Bangalore, cardiologist Kudlu, heart disease prevention Bangalore, cardiac care Kudlu, heart screening Bangalore, best cardiologist near me, heart hospital Kudlu, cardiac hospital Bangalore, heart diet tips, prevent heart disease, cardiovascular health Bangalore",
+   "words": 256,
+   "hasPoints": true,
+   "hasBody": true
+  },
+  "aroatic": {
+   "slug": "aroatic",
+   "heading": "Transcatheter Aortic Valve Replacement (TAVR)",
+   "cover": "../img/tatv.webp",
+   "category": "Cardiology",
+   "date": "March 13, 2025",
+   "title": "Aortic Disease Treatment | Aortic Aneurysm Care | Best Cardiac Surgeon in Bangalore & Kudlu | Raksha Hospital",
+   "description": "Expert aortic disease treatment at Raksha Hospital Bangalore & Kudlu. Aortic aneurysm, valve replacement near HSR Layout. Best cardiac surgeons. Call +91-8050222777",
+   "keywords": "aortic disease Bangalore, aortic aneurysm treatment Bangalore, aortic valve replacement Bangalore, best cardiac surgeon Bangalore, aortic surgery Kudlu, heart surgery Bangalore",
+   "words": 207,
+   "hasPoints": true,
+   "hasBody": true
+  },
+  "arrhythmia": {
+   "slug": "arrhythmia",
+   "heading": "How Stress Affects Arrhythmia",
+   "cover": "../img/stresss.webp",
+   "category": "Cardiology",
+   "date": "March 13, 2025",
+   "title": "Arrhythmia Treatment: Irregular Heartbeat Care | Best Cardiologist in Bangalore & Kudlu | Raksha Hospital",
+   "description": "Expert arrhythmia treatment at Raksha Hospital Bangalore & Kudlu. Irregular heartbeat care, diagnosis near HSR Layout. Best cardiologists. Call +91-8050222777",
+   "keywords": "arrhythmia treatment Bangalore, irregular heartbeat Bangalore, arrhythmia Kudlu, best cardiologist Bangalore, heart rhythm disorder Bangalore, atrial fibrillation treatment Bangalore, palpitations treatment Bangalore, arrhythmia specialist Bangalore",
+   "words": 196,
+   "hasPoints": true,
+   "hasBody": true
+  },
+  "cancer": {
+   "slug": "cancer",
+   "heading": "Insights into Prostate Cancer",
+   "cover": "../img/cancer.webp",
+   "category": "Oncology",
+   "date": "March 13, 2025",
+   "title": "Cancer Awareness & Prevention - Raksha Hospital Kudlu | Oncology Care Guide",
+   "keywords": "cancer awareness, cancer prevention, oncology, cancer treatment, cancer care",
+   "description": "Comprehensive cancer information, prevention tips, and treatment options from Raksha Hospital Kudlu oncology experts. Early detection and care guidance.",
+   "words": 198,
+   "hasPoints": true,
+   "hasBody": true
+  },
+  "cardiac": {
+   "slug": "cardiac",
+   "heading": "Key Advances in Cardiac Care",
+   "cover": "../img/cardiac.webp",
+   "category": "Cardiology",
+   "date": "March 13, 2025",
+   "title": "Cardiac Care & Heart Treatment | Best Cardiac Hospital in Bangalore & Kudlu | Raksha Hospital",
+   "description": "Expert cardiac care at Raksha Hospital Bangalore & Kudlu. Heart treatment, ECG, Echo, angioplasty near HSR Layout. Best cardiologists. Call +91-8050222777",
+   "keywords": "cardiac care Bangalore, cardiac care Kudlu, best cardiac hospital Bangalore, heart treatment Bangalore, cardiac surgery Bangalore, heart hospital Kudlu, best cardiologist Bangalore, cardiac care near me, cardiology hospital Bangalore",
+   "words": 192,
+   "hasPoints": true,
+   "hasBody": true
+  },
+  "cardiomapathy": {
+   "slug": "cardiomapathy",
+   "heading": "Understanding Cardiomyopathy",
+   "cover": "../img/cardiomaphy.webp",
+   "category": "Cardiology",
+   "date": "March 13, 2025",
+   "title": "Cardiomyopathy Treatment: Heart Muscle Disease Care | Best Cardiac Hospital in Bangalore & Kudlu | Raksha Hospital",
+   "description": "Expert cardiomyopathy treatment at Raksha Hospital Bangalore & Kudlu. Heart muscle disease care, diagnosis near HSR Layout. Best cardiologists. Call +91-8050222777",
+   "keywords": "cardiomyopathy treatment Bangalore, heart muscle disease Bangalore, cardiomyopathy Kudlu, best cardiologist Bangalore, heart failure Bangalore, dilated cardiomyopathy Bangalore, cardiac care Bangalore",
+   "words": 192,
+   "hasPoints": true,
+   "hasBody": true
+  },
+  "child_Health": {
+   "slug": "child_Health",
+   "heading": "Essential Child Healthcare Tips",
+   "cover": "../img/childHealth.webp",
+   "category": "Child Healthcare",
+   "date": "March 13, 2025",
+   "title": "Child Health & Wellness Tips - Raksha Hospital Kudlu | Pediatric Care Guide",
+   "keywords": "child health, pediatric care, children wellness, kids healthcare, pediatrics Kudlu",
+   "description": "Essential child health tips and pediatric care advice from Raksha Hospital Kudlu. Expert guidance on children's wellness and development.",
+   "words": 229,
+   "hasPoints": true,
+   "hasBody": true
+  },
+  "congential": {
+   "slug": "congential",
+   "heading": "Congenital Heart Disease",
+   "cover": "../img/cognetial.webp",
+   "category": "Pediatric Cardiology",
+   "date": "March 13, 2025",
+   "title": "Congenital Heart Disease Treatment | Best Pediatric Cardiologist in Bangalore & Kudlu | Raksha Hospital",
+   "description": "Expert congenital heart disease treatment at Raksha Hospital Bangalore & Kudlu. Pediatric cardiac care near HSR Layout. Best pediatric cardiologists. Call +91-8050222777",
+   "keywords": "congenital heart disease Bangalore, pediatric cardiologist Bangalore, CHD treatment Kudlu, children's heart care Bangalore, pediatric cardiac surgery Bangalore, best pediatric cardiologist Bangalore",
+   "words": 188,
+   "hasPoints": true,
+   "hasBody": true
+  },
+  "cronary": {
+   "slug": "cronary",
+   "heading": "Know More About Coronary Artery Disease",
+   "cover": "../img/cronory.webp",
+   "category": "Cardiology",
+   "date": "March 13, 2025",
+   "title": "Coronary Artery Disease Treatment | CAD Care | Best Cardiologist in Bangalore & Kudlu | Raksha Hospital",
+   "description": "Expert coronary artery disease (CAD) treatment at Raksha Hospital Bangalore & Kudlu. Angioplasty, bypass surgery near HSR Layout. Best cardiologists. Call +91-8050222777",
+   "keywords": "coronary artery disease treatment Bangalore, CAD treatment Bangalore, heart blockage treatment Bangalore, angioplasty Bangalore, bypass surgery Bangalore, best cardiologist Bangalore, CAD Kudlu",
+   "words": 207,
+   "hasPoints": true,
+   "hasBody": true
+  },
+  "dyslipidaemia": {
+   "slug": "dyslipidaemia",
+   "heading": "Dyslipidaemia: Understanding Cholesterol Levels",
+   "cover": "../img/Dyslipidaemia.webp",
+   "category": "Cardiology",
+   "date": "March 13, 2025",
+   "title": "Dyslipidaemia & Cholesterol Management - Raksha Hospital Kudlu | Heart Health",
+   "keywords": "dyslipidaemia, high cholesterol, lipid disorders, cholesterol management, heart health",
+   "description": "Understanding dyslipidaemia and cholesterol management. Expert cardiology advice from Raksha Hospital Kudlu on maintaining healthy lipid levels.",
+   "words": 171,
+   "hasPoints": true,
+   "hasBody": true
+  },
+  "echocardiogram": {
+   "slug": "echocardiogram",
+   "heading": "The Echocardiogram Procedure",
+   "cover": "../img/echocardiogram.webp",
+   "category": "Cardiology",
+   "date": "March 13, 2025",
+   "title": "Echocardiogram Explained - Raksha Hospital Kudlu | Cardiac Imaging Guide",
+   "keywords": "echocardiogram, heart ultrasound, cardiac imaging, heart test, cardiology diagnostic",
+   "description": "Understanding echocardiograms: what they are, why they're performed, and what to expect. Expert cardiology insights from Raksha Hospital Kudlu.",
+   "words": 171,
+   "hasPoints": true,
+   "hasBody": true
+  },
+  "excersizeHeart": {
+   "slug": "excersizeHeart",
+   "heading": "The Power of Exercise in Heart Health",
+   "cover": "../img/exercize.webp",
+   "category": "Cardiology",
+   "date": "March 13, 2025",
+   "title": "Exercise for Heart Health - Raksha Hospital Kudlu | Cardiovascular Fitness Guide",
+   "keywords": "exercise for heart, heart health, cardiovascular fitness, cardiac exercise, heart workout",
+   "description": "Learn about exercise and heart health. Expert advice from Raksha Hospital Kudlu cardiologists on safe and effective cardiovascular fitness routines.",
+   "words": 169,
+   "hasPoints": true,
+   "hasBody": true
+  },
+  "kidney_stone": {
+   "slug": "kidney_stone",
+   "heading": "Coping with Kidney Stones",
+   "cover": "../img/kidney.webp",
+   "category": "Urology",
+   "date": "March 13, 2025",
+   "title": "Kidney Stones: Prevention & Treatment - Raksha Hospital Kudlu | Nephrology Guide",
+   "keywords": "kidney stones, kidney stone treatment, renal calculi, nephrology, kidney health",
+   "description": "Comprehensive guide to kidney stones: causes, symptoms, prevention, and treatment. Expert nephrology advice from Raksha Hospital Kudlu.",
+   "words": 186,
+   "hasPoints": true,
+   "hasBody": true
+  },
+  "prostatist": {
+   "slug": "prostatist",
+   "heading": "Prostatitis: Causes and Treatments",
+   "cover": "../img/prostatitis.webp",
+   "category": "Urology",
+   "date": "March 13, 2025",
+   "title": "Prostatitis: Symptoms & Treatment - Raksha Hospital Kudlu | Men's Health Guide",
+   "keywords": "prostatitis, prostate health, prostate inflammation, urology, men's health",
+   "description": "Understanding prostatitis: causes, symptoms, and treatment options. Expert urological advice from Raksha Hospital Kudlu on prostate health management.",
+   "words": 183,
+   "hasPoints": true,
+   "hasBody": true
+  },
+  "pumping": {
+   "slug": "pumping",
+   "heading": "Pumping Life into Your Heart",
+   "cover": "../img/pumpingLife.webp",
+   "category": "Cardiology",
+   "date": "March 13, 2025",
+   "title": "Heart Pumping Function & Cardiac Health - Raksha Hospital Kudlu | Cardiology Insights",
+   "keywords": "heart pumping, cardiac function, heart health, cardiovascular system, heart efficiency",
+   "description": "Learn about heart pumping function and cardiovascular health. Expert insights from Raksha Hospital Kudlu cardiologists on maintaining a healthy heart.",
+   "words": 194,
+   "hasPoints": true,
+   "hasBody": true
+  },
+  "stress": {
+   "slug": "stress",
+   "heading": "Managing Stress & Mental Health",
+   "cover": "../img/stress.webp",
+   "category": "Mental Health & Wellness",
+   "date": "March 13, 2025",
+   "title": "Stress Management & Mental Wellbeing - Raksha Hospital Kudlu | Health Guide",
+   "keywords": "stress management, mental health, stress relief, anxiety, wellness, stress reduction",
+   "description": "Effective stress management techniques and mental health advice from Raksha Hospital Kudlu. Learn to reduce stress and improve your overall wellbeing.",
+   "words": 227,
+   "hasPoints": true,
+   "hasBody": true
+  },
+  "thrombosis": {
+   "slug": "thrombosis",
+   "heading": "Deep Vein Thrombosis (DVT)",
+   "cover": "../img/dvt.webp",
+   "category": "Vascular Health",
+   "date": "March 13, 2025",
+   "title": "Thrombosis: Causes, Symptoms & Treatment - Raksha Hospital Kudlu | Vascular Health",
+   "keywords": "thrombosis, blood clots, vascular health, deep vein thrombosis, thrombosis treatment",
+   "description": "Understanding thrombosis and blood clot prevention. Expert medical advice from Raksha Hospital Kudlu on recognizing symptoms and treatment options.",
+   "words": 197,
+   "hasPoints": true,
+   "hasBody": true
+  },
+  "urethral": {
+   "slug": "urethral",
+   "heading": "Urethral Stricture: Narrowing the Flow",
+   "cover": "../img/uthral.webp",
+   "category": "Urology",
+   "date": "March 13, 2025",
+   "title": "Urethral Health & Care - Raksha Hospital Kudlu | Urology Guide",
+   "keywords": "urethral health, urology, urethral stricture, urinary tract, urethral care",
+   "description": "Understanding urethral conditions and treatments. Expert urological guidance from Raksha Hospital Kudlu on urethral health and care.",
+   "words": 180,
+   "hasPoints": true,
+   "hasBody": true
+  },
+  "uti": {
+   "slug": "uti",
+   "heading": "A Closer Look at Chronic UTI",
+   "cover": "../img/uti.webp",
+   "category": "Urology",
+   "date": "March 13, 2025",
+   "title": "Urinary Tract Infection (UTI): Treatment & Prevention - Raksha Hospital Kudlu",
+   "keywords": "UTI, urinary tract infection, bladder infection, UTI treatment, urology",
+   "description": "Complete guide to urinary tract infections (UTI): symptoms, causes, treatment, and prevention. Expert urological advice from Raksha Hospital Kudlu.",
+   "words": 184,
+   "hasPoints": true,
+   "hasBody": true
+  },
+  "vital": {
+   "slug": "vital",
+   "heading": "Fractional Flow Reserve (FFR)",
+   "cover": "../img/ffr.webp",
+   "category": "Cardiology",
+   "date": "March 13, 2025",
+   "title": "Vital Signs & Health Monitoring - Raksha Hospital Kudlu | Health Indicators Guide",
+   "keywords": "vital signs, health monitoring, blood pressure, heart rate, vital health indicators",
+   "description": "Understanding vital signs and their importance in health monitoring. Expert medical advice from Raksha Hospital Kudlu on tracking your vital health indicators.",
+   "words": 242,
+   "hasPoints": true,
+   "hasBody": true
+  }
+ },
+ "ecSpecialities": {
+  "cardiology": {
+   "slug": "cardiology",
+   "heading": "Best Cardiologist in Electronic City Bengaluru",
+   "lede": "Expert heart care for prevention, diagnosis, intervention, and rehabilitation. 24x7 emergency cardiac services with state-of-the-art facilities.",
+   "images": [],
+   "title": "Best Cardiac Care Hospital in Bangalore | Electronic City | Heart Specialist | Raksha Hospital | 24×7 Emergency",
+   "description": "Best cardiac care hospital in Bangalore & Electronic City. Expert cardiologists, 24×7 emergency heart care, ECG, Echo, TMT, angioplasty. Top cardiology hospital in Bengaluru near Wipro campus. Call +91-9494060671",
+   "keywords": "best cardiac care hospital Bangalore, best cardiology hospital Bengaluru, best heart hospital Bangalore, cardiac care hospital Electronic City Bengaluru, best cardiologist Bangalore, best cardiologist Electronic City, heart specialist Bangalore, heart specialist Electronic City Bengaluru, cardiology hospital Bangalore, cardiology hospital near Wipro campus, heart hospital Bengaluru, 24×7 emergency cardiac care Bangalore, ECG Echo TMT Bangalore, angioplasty hospital Bangalore, preventive cardiology Bangalore, hypertension management Bangalore, heart attack treatment Bangalore, chest pain clinic Bengaluru, best heart doctor Bangalore",
+   "h2": [
+    "Leading Cardiology Department in Electronic City",
+    "Conditions We Treat",
+    "Diagnostics",
+    "Treatments and Procedures"
+   ]
+  },
+  "dermatology": {
+   "slug": "dermatology",
+   "heading": "Best Dermatologist in Electronic City Bengaluru",
+   "lede": "Expert skin care for all dermatological conditions. Advanced treatments for skin, hair, and nail disorders with cosmetic dermatology services.",
+   "images": [],
+   "title": "Best Dermatologist in Electronic City Bengaluru | Skin Specialist | Raksha Hospital",
+   "description": "Top dermatologist in Electronic City Bengaluru. Expert skin care, hair treatment, acne treatment, cosmetic dermatology. Best skin specialist at Raksha Hospital.",
+   "keywords": "dermatologist, skin specialist, dermatology, Electronic City, Bengaluru, skin care, hair treatment, acne treatment, cosmetic dermatology, skin doctor",
+   "h2": [
+    "Leading Dermatology Department in Electronic City",
+    "Skin Conditions We Treat",
+    "Dermatological Procedures",
+    "Cosmetic &amp; Medical Treatments"
+   ]
+  },
+  "diagnostics": {
+   "slug": "diagnostics",
+   "heading": "Best Diagnostic Lab in Electronic City Bengaluru",
+   "lede": "Comprehensive diagnostic services with ECG, X-Ray, Echo, and Ultrasound. Accurate lab tests with quick turnaround time and modern equipment.",
+   "images": [],
+   "title": "Best Diagnostic Lab in Electronic City Bengaluru | ECG X-Ray Echo Ultrasound | Raksha Hospital",
+   "description": "Top diagnostic laboratory in Electronic City Bengaluru. Blood tests, ECG, X-Ray, Echo, Ultrasound, pathology services. Best diagnostic center at Raksha Hospital.",
+   "keywords": "diagnostic lab, pathology, Electronic City, Bengaluru, blood tests, ECG, X-Ray, Echo, Ultrasound, medical tests, lab services",
+   "h2": [
+    "Leading Diagnostic Laboratory in Electronic City",
+    "Diagnostic Services We Offer",
+    "Advanced Diagnostic Equipment",
+    "Laboratory &amp; Imaging Services"
+   ]
+  },
+  "ent": {
+   "slug": "ent",
+   "heading": "Best ENT Specialist in Electronic City Bengaluru",
+   "lede": "Expert care for ear, nose, throat, and head-neck disorders. Advanced ENT treatments with state-of-the-art diagnostic facilities.",
+   "images": [],
+   "title": "Best ENT Specialist in Electronic City Bengaluru | Ear Nose Throat Doctor | Raksha Hospital",
+   "description": "Top ENT specialist in Electronic City Bengaluru. Expert care for ear, nose, throat disorders, hearing problems, sinus treatment. Best ENT doctor at Raksha Hospital.",
+   "keywords": "ENT specialist, ear nose throat doctor, ENT, Electronic City, Bengaluru, hearing problems, sinus treatment, throat disorders, ENT surgeon",
+   "h2": [
+    "Leading ENT Department in Electronic City",
+    "ENT Conditions We Treat",
+    "ENT Diagnostics &amp; Procedures",
+    "ENT Treatments &amp; Surgeries"
+   ]
+  },
+  "general-medicine": {
+   "slug": "general-medicine",
+   "heading": "Best General Medicine Doctor in Electronic City Bengaluru",
+   "lede": "Your first point of care for prevention, diagnosis and management of common illnesses. Expert internal medicine specialists providing comprehensive healthcare solutions.",
+   "images": [],
+   "title": "Best General Medicine Doctor in Electronic City Bengaluru | Internal Medicine Specialist | Raksha Hospital",
+   "description": "Top general medicine doctor in Electronic City Bengaluru. Expert internal medicine, diabetes care, hypertension treatment, preventive healthcare. Book appointment with best general physician.",
+   "keywords": "general medicine doctor, internal medicine, Electronic City, Bengaluru, general physician, diabetes doctor, hypertension specialist, preventive care, family doctor, primary care physician",
+   "h2": [
+    "Leading General Medicine Department in Electronic City",
+    "Common Conditions",
+    "Services"
+   ]
+  },
+  "general-surgery": {
+   "slug": "general-surgery",
+   "heading": "Best General Surgeon in Electronic City Bengaluru",
+   "lede": "Expert surgical care including laparoscopic procedures, emergency surgery, and trauma management. Advanced surgical techniques and comprehensive care.",
+   "images": [],
+   "title": "Best General Surgery Hospital in Bangalore | Electronic City | Surgeon | Laparoscopic Surgery | Raksha Hospital",
+   "description": "Best general surgery hospital in Bangalore & Electronic City. Expert surgeons, laparoscopic surgery, emergency surgery, hernia repair, gallbladder surgery. Top surgical care in Bengaluru. Call +91-9494060671",
+   "keywords": "best general surgery hospital Bangalore, best surgery hospital Bengaluru, best surgeon Bangalore, general surgery hospital Electronic City Bengaluru, best surgeon Electronic City, laparoscopic surgery Bangalore, emergency surgery Bangalore, hernia repair Bangalore, gallbladder surgery Bangalore, appendix surgery Bangalore, surgical specialist Bangalore, trauma care Bangalore, minimally invasive surgery Bengaluru, surgical procedures Bangalore, best surgical hospital Bangalore",
+   "h2": [
+    "Leading General Surgery Department in Electronic City",
+    "Key Procedures",
+    "Preparation &amp; Recovery"
+   ]
+  },
+  "icu": {
+   "slug": "icu",
+   "heading": "ICU with Ventilator Facility - Electronic City Bengaluru",
+   "lede": "Advanced intensive care with ventilator support and 24/7 monitoring. State-of-the-art life support systems with expert critical care specialists.",
+   "images": [],
+   "title": "Best ICU Hospital in Bangalore | Electronic City | 24×7 Critical Care | Ventilator Facility | Raksha Hospital",
+   "description": "Best ICU hospital in Bangalore & Electronic City with 24×7 critical care, advanced ventilators, life support, intensive monitoring. Top critical care in Bengaluru near Wipro campus. Call +91-9494060671",
+   "keywords": "best ICU hospital Bangalore, best ICU hospital Bengaluru, best critical care hospital Bangalore, ICU hospital Electronic City Bengaluru, 24×7 critical care Bangalore, ventilator facility Bangalore, intensive care unit Bangalore, ICU specialist Bangalore, critical care medicine Bengaluru, life support Bangalore, emergency ICU Bangalore, ventilator support Bengaluru, ICU near Wipro campus, best intensive care Bangalore",
+   "h2": [
+    "Advanced ICU with Ventilator Facility in Electronic City",
+    "Critical Conditions We Manage",
+    "ICU Monitoring &amp; Equipment",
+    "ICU Services &amp; Procedures"
+   ]
+  },
+  "nephrology": {
+   "slug": "nephrology",
+   "heading": "Best Nephrologist in Electronic City Bengaluru",
+   "lede": "Expert kidney care and dialysis services. Comprehensive treatment for all kidney-related conditions with advanced nephrology facilities.",
+   "images": [],
+   "title": "Best Nephrologist in Electronic City Bengaluru | Kidney Specialist | Raksha Hospital",
+   "description": "Top nephrologist in Electronic City Bengaluru. Expert kidney care, dialysis services, kidney disease treatment. Best kidney specialist at Raksha Hospital.",
+   "keywords": "nephrologist, kidney specialist, nephrology, Electronic City, Bengaluru, kidney disease, dialysis, kidney care, renal specialist",
+   "h2": [
+    "Leading Nephrology Department in Electronic City",
+    "Kidney Conditions We Treat",
+    "Nephrology Diagnostics",
+    "Nephrology Treatments &amp; Services"
+   ]
+  },
+  "neurology": {
+   "slug": "neurology",
+   "heading": "Best Neurologist in Electronic City Bengaluru",
+   "lede": "Expert neurology care for brain disorders, stroke, epilepsy, and nerve conditions. Advanced diagnostic and treatment approaches with comprehensive care.",
+   "images": [],
+   "title": "Best Neurology Hospital in Bangalore | Electronic City | Neurologist | Brain Specialist | Raksha Hospital",
+   "description": "Best neurology hospital in Bangalore & Electronic City. Expert neurologists, 24×7 stroke care, epilepsy treatment, brain disorders. Top neurology care in Bengaluru near Wipro campus. Call +91-9494060671",
+   "keywords": "best neurology hospital Bangalore, best neurology hospital Bengaluru, best neurologist Bangalore, neurology hospital Electronic City Bengaluru, best neurologist Electronic City, brain specialist Bangalore, brain specialist Bengaluru, stroke treatment Bangalore, epilepsy care Bangalore, headache clinic Bangalore, migraine treatment Bengaluru, nerve disorders Bangalore, Parkinson's treatment Bangalore, memory clinic Bengaluru, neurologist near Wipro campus, best brain doctor Bangalore",
+   "h2": [
+    "Leading Neurology Department in Electronic City",
+    "Conditions We Treat",
+    "Diagnostics",
+    "Treatments and Programs"
+   ]
+  },
+  "obgyn": {
+   "slug": "obgyn",
+   "heading": "Best Gynecologist in Electronic City Bengaluru",
+   "lede": "Expert women health care including pregnancy, gynecology, fertility, and women-specific surgical procedures. Comprehensive reproductive health services.",
+   "images": [],
+   "title": "Best Maternity Hospital in Bangalore | Electronic City | Gynecologist | Pregnancy Care | Raksha Hospital",
+   "description": "Best maternity hospital in Bangalore & Electronic City. Expert gynecologists, normal & C-section delivery, NICU, pregnancy care. Top women's hospital in Bengaluru near Wipro campus. Call +91-9494060671",
+   "keywords": "best maternity hospital Bangalore, best maternity hospital Bengaluru, best gynecologist Bangalore, maternity hospital Electronic City Bengaluru, best gynecologist Electronic City, pregnancy care Bangalore, pregnancy care Bengaluru, normal delivery Bangalore, C-section delivery Bangalore, NICU Bangalore, best women's hospital Bangalore, prenatal care Bengaluru, postnatal care Bangalore, fertility treatment Bangalore, women's health clinic Bangalore, gynecology surgery Bengaluru, maternity hospital near Hosur Road, best delivery hospital Bangalore",
+   "h2": [
+    "Leading Obstetrics &amp; Gynecology Department in Electronic City",
+    "Services",
+    "Screening &amp; Diagnostics",
+    "Care Pathways"
+   ]
+  },
+  "oncology": {
+   "slug": "oncology",
+   "heading": "Best Oncologist in Electronic City Bengaluru",
+   "lede": "Comprehensive cancer care with advanced treatment options and compassionate support. Expert oncology services with state-of-the-art facilities.",
+   "images": [],
+   "title": "Best Oncologist in Electronic City Bengaluru | Cancer Treatment | Raksha Hospital",
+   "description": "Top oncologist in Electronic City Bengaluru. Comprehensive cancer care, chemotherapy, radiation therapy, surgical oncology. Expert cancer treatment at Raksha Hospital.",
+   "keywords": "oncologist, cancer treatment, oncology, Electronic City, Bengaluru, chemotherapy, radiation therapy, cancer specialist, tumor treatment, cancer care",
+   "h2": [
+    "Leading Oncology Department in Electronic City",
+    "Cancer Types We Treat",
+    "Cancer Diagnostics",
+    "Cancer Treatments &amp; Procedures"
+   ]
+  },
+  "orthopedics": {
+   "slug": "orthopedics",
+   "heading": "Best Orthopedic Doctor in Electronic City Bengaluru",
+   "lede": "Comprehensive bone and joint care for pain relief, mobility and performance. Expert orthopedic surgeons providing advanced joint replacement and sports injury treatment.",
+   "images": [],
+   "title": "Best Orthopaedic Hospital in Bangalore | Electronic City | Orthopedic Doctor | Joint & Bone Care | Raksha Hospital",
+   "description": "Best orthopaedic hospital in Bangalore & Electronic City. Expert orthopedic doctors, joint replacement, fracture care, sports injury, physiotherapy. Top bone care in Bengaluru near Wipro campus. Call +91-9494060671",
+   "keywords": "best orthopaedic hospital Bangalore, best orthopedic hospital Bengaluru, best orthopedic doctor Bangalore, orthopaedics hospital Electronic City Bengaluru, best orthopedic doctor Electronic City, bone specialist Bangalore, joint replacement Bangalore, knee replacement Bangalore, hip replacement Bangalore, fracture treatment Bangalore, sports injury clinic Bangalore, arthroscopy Bangalore, spine surgery Bangalore, physiotherapy Bangalore, orthopedic surgeon Bangalore, best bone doctor Bangalore",
+   "h2": [
+    "Leading Orthopedics Department in Electronic City",
+    "Conditions We Treat",
+    "Diagnostics",
+    "Treatments"
+   ]
+  },
+  "pediatrics": {
+   "slug": "pediatrics",
+   "heading": "Best Pediatrician in Electronic City Bengaluru",
+   "lede": "Expert child care and pediatric medicine for infants, children, and adolescents. Comprehensive vaccination and growth monitoring services with compassionate care.",
+   "images": [],
+   "title": "Best Children's Hospital in Bangalore | Electronic City | Pediatrician | Child Care | Raksha Hospital",
+   "description": "Best children's hospital in Bangalore & Electronic City. Expert pediatricians, vaccination, NICU, newborn care, child emergency care. Top pediatric care in Bengaluru near Wipro campus. Call +91-9494060671",
+   "keywords": "best children's hospital Bangalore, best children's hospital Bengaluru, best pediatrician Bangalore, children's hospital Electronic City Bengaluru, best pediatrician Electronic City, child specialist Bangalore, pediatric care Bangalore, vaccination clinic Bangalore, NICU Bangalore, newborn care Bengaluru, child emergency care Bangalore, baby doctor Bangalore, pediatric hospital Bangalore, growth monitoring Bangalore, immunization center Bengaluru, best child doctor Bangalore",
+   "h2": [
+    "Leading Pediatrics Department in Electronic City",
+    "Services",
+    "When to Visit"
+   ]
+  },
+  "psychiatry": {
+   "slug": "psychiatry",
+   "heading": "Best Psychiatrist in Electronic City Bengaluru",
+   "lede": "Expert mental health care with compassionate counseling and treatment. Professional psychiatric services with confidential and supportive environment.",
+   "images": [],
+   "title": "Best Psychiatrist in Electronic City Bengaluru | Mental Health Specialist | Raksha Hospital",
+   "description": "Top psychiatrist in Electronic City Bengaluru. Expert mental health care, depression treatment, anxiety therapy, counseling services. Best psychiatrist at Raksha Hospital.",
+   "keywords": "psychiatrist, mental health, psychiatry, Electronic City, Bengaluru, depression treatment, anxiety therapy, counseling, mental health specialist",
+   "h2": [
+    "Leading Psychiatry Department in Electronic City",
+    "Mental Health Conditions We Treat",
+    "Mental Health Assessment",
+    "Treatment &amp; Therapy Services"
+   ]
+  },
+  "urology": {
+   "slug": "urology",
+   "heading": "Best Urologist in Electronic City Bengaluru",
+   "lede": "Expert urology care for kidney stones, prostate conditions, urinary disorders, and male reproductive health. Advanced surgical and non-surgical treatments.",
+   "images": [],
+   "title": "Best Urologist in Electronic City Bengaluru | Kidney Stone Specialist | Raksha Hospital",
+   "description": "Top urologist in Electronic City Bengaluru. Expert urology care, kidney stone treatment, prostate surgery, urinary disorders. Book appointment with best urologist.",
+   "keywords": "urologist, kidney stone specialist, Electronic City, Bengaluru, urology doctor, prostate surgery, urinary disorders, kidney care",
+   "h2": [
+    "Leading Urology Department in Electronic City",
+    "Conditions We Treat",
+    "Diagnostics",
+    "Treatments"
+   ]
+  }
+ },
+ "kudluDiseases": {
+  "High_Risk_Pregnance": {
+   "slug": "High_Risk_Pregnance",
+   "file": "High_Risk_Pregnance.html",
+   "heading": "High Risk Pregnancy Care",
+   "cover": "../img/pregnancy.jpeg",
+   "images": [],
+   "boxes": [
+    {
+     "title": "Symptoms",
+     "items": [
+      "High blood pressure",
+      "Severe swelling & fluid retention",
+      "Gestational diabetes",
+      "Severe nausea & vomiting",
+      "Preterm contractions",
+      "Unusual fetal movements"
+     ]
+    },
+    {
+     "title": "Causes",
+     "items": [
+      "Maternal age (under 18 or over 35)",
+      "Pre-existing health conditions",
+      "Multiple pregnancies",
+      "Genetic disorders",
+      "Obesity & poor nutrition",
+      "Previous pregnancy complications"
+     ]
+    },
+    {
+     "title": "Treatment",
+     "items": [
+      "Medications for blood pressure & diabetes",
+      "Frequent prenatal check-ups",
+      "Specialized ultrasound & fetal monitoring",
+      "Bed rest & lifestyle modifications",
+      "NICU support for preterm babies",
+      "Personalized birth planning"
+     ]
+    },
+    {
+     "title": "Care",
+     "items": [
+      "Regular prenatal visits",
+      "Balanced diet & hydration",
+      "Stress management techniques",
+      "Avoiding harmful substances",
+      "Monitoring fetal movements",
+      "Postpartum follow-up care"
+     ]
+    }
+   ],
+   "title": "High Risk Pregnancy Care in Bangalore & Kudlu | Specialist | NICU | Raksha Hospital",
+   "description": "High risk pregnancy care in Bangalore & Kudlu. Expert pregnancy specialists, NICU, fetal medicine near HSR Layout. Call +91-8050222777",
+   "keywords": "high risk pregnancy Kudlu, pregnancy specialist Bangalore, high risk maternity Kudlu, fetal medicine Bangalore, NICU Kudlu, complicated pregnancy Bangalore, pregnancy care Kudlu, obstetrician Bangalore",
+   "words": 246,
+   "h3": [
+    "Why Raksha?",
+    "Comprehensive High-Risk Pregnancy Care"
+   ]
+  },
+  "Nephrology": {
+   "slug": "Nephrology",
+   "file": "Nephrology.html",
+   "heading": "Nephrology",
+   "cover": "../img/NEPHROLOGY.png",
+   "images": [],
+   "boxes": [
+    {
+     "title": "Symptoms",
+     "items": [
+      "Swelling in legs or face",
+      "Fatigue",
+      "High blood pressure",
+      "Frequent urination",
+      "Blood in urine",
+      "Unexplained weight loss"
+     ]
+    },
+    {
+     "title": "Causes",
+     "items": [
+      "Diabetes",
+      "High blood pressure",
+      "Genetic disorders",
+      "Autoimmune diseases",
+      "Urinary tract infections",
+      "Long-term medication use"
+     ]
+    },
+    {
+     "title": "Treatment",
+     "items": [
+      "Dialysis",
+      "Kidney transplant",
+      "Medications",
+      "Blood pressure management",
+      "Specialized diet",
+      "Regular monitoring"
+     ]
+    },
+    {
+     "title": "Care",
+     "items": [
+      "Routine kidney checkups",
+      "Maintaining a balanced diet",
+      "Staying hydrated",
+      "Managing blood sugar and pressure",
+      "Avoiding excessive medication use",
+      "Exercise and stress management"
+     ]
+    }
+   ],
+   "title": "Best Nephrology Hospital in Bangalore & Kudlu | Kidney Specialist | Dialysis | Raksha Hospital",
+   "description": "Best nephrology hospital in Bangalore & Kudlu. Expert kidney specialists, dialysis, kidney disease treatment near HSR Layout. Call +91-8050222777",
+   "keywords": "nephrology hospital Kudlu, best kidney specialist Bangalore, dialysis center Kudlu, kidney disease treatment Bangalore, nephrologist Kudlu, renal care Bangalore, kidney failure treatment Kudlu, hemodialysis Bangalore",
+   "words": 264,
+   "h3": [
+    "Why Raksha?",
+    "Comprehensive Nephrology Treatments"
+   ]
+  },
+  "Obstetrics _Gynaecology": {
+   "slug": "Obstetrics _Gynaecology",
+   "file": "Obstetrics _Gynaecology.html",
+   "heading": "Obstetrics & Gynaecology",
+   "cover": "../img/Obstetrics_Gynaecology.webp",
+   "images": [
+    "../img/blog2.jpg",
+    "../img/blog3.jpg"
+   ],
+   "boxes": [
+    {
+     "title": "Symptoms",
+     "items": [
+      "Irregular periods",
+      "Pelvic pain",
+      "Excessive bleeding",
+      "Hormonal imbalances",
+      "Abnormal discharge",
+      "Infertility"
+     ]
+    },
+    {
+     "title": "Causes",
+     "items": [
+      "Hormonal changes",
+      "Infections",
+      "Genetic predisposition",
+      "Lifestyle factors",
+      "Pregnancy complications",
+      "Underlying medical conditions"
+     ]
+    },
+    {
+     "title": "Treatment",
+     "items": [
+      "Medications",
+      "Hormonal therapy",
+      "Surgical procedures",
+      "Assisted reproductive techniques",
+      "Lifestyle modifications",
+      "Specialized gynecological care"
+     ]
+    },
+    {
+     "title": "Care",
+     "items": [
+      "Regular health checkups",
+      "A balanced diet",
+      "Stress management",
+      "Prenatal care",
+      "Routine screenings",
+      "Physical activity"
+     ]
+    }
+   ],
+   "title": "Best Maternity Hospital in Bangalore & Kudlu | Gynecologist | Pregnancy Care | Raksha Hospital",
+   "description": "Best maternity hospital in Bangalore & Kudlu. Expert gynecologists, normal & C-section delivery, NICU, pregnancy care near HSR Layout, Singasandra. Call +91-8050222777",
+   "keywords": "maternity hospital Kudlu, best maternity hospital Bangalore, best gynecologist Bangalore, pregnancy care Kudlu, normal delivery Kudlu, C-section delivery Bangalore, NICU Kudlu, best women's hospital Bangalore, prenatal care Kudlu, postnatal care Bangalore, fertility treatment Kudlu, gynecology surgery Bangalore, maternity hospital near HSR Layout, best delivery hospital Bangalore, pregnancy specialist Kudlu",
+   "words": 186,
+   "h3": []
+  },
+  "cardiology": {
+   "slug": "cardiology",
+   "file": "cardiology.html",
+   "heading": "Cardiology",
+   "cover": "../img/cardiology.jpeg",
+   "images": [],
+   "boxes": [
+    {
+     "title": "Symptoms",
+     "items": [
+      "Chest pain & discomfort",
+      "Shortness of breath",
+      "Irregular heartbeat",
+      "Fatigue & dizziness",
+      "Swelling in legs & feet",
+      "High blood pressure"
+     ]
+    },
+    {
+     "title": "Causes",
+     "items": [
+      "High cholesterol & hypertension",
+      "Diabetes & obesity",
+      "Smoking & excessive alcohol",
+      "Genetic predisposition",
+      "Poor diet & sedentary lifestyle",
+      "Stress & mental health factors"
+     ]
+    },
+    {
+     "title": "Treatment",
+     "items": [
+      "Medications for heart health",
+      "Angioplasty & stent placement",
+      "Pacemakers & defibrillators",
+      "Heart surgery & bypass procedures",
+      "Cardiac rehabilitation programs",
+      "Lifestyle modifications"
+     ]
+    },
+    {
+     "title": "Care",
+     "items": [
+      "Regular cardiac check-ups",
+      "Maintaining a heart-healthy diet",
+      "Regular physical activity",
+      "Managing stress & mental well-being",
+      "Monitoring blood pressure & cholesterol",
+      "Avoiding smoking & excessive alcohol"
+     ]
+    }
+   ],
+   "title": "Best Cardiac Care Hospital in Bangalore & Kudlu | Heart Specialist | Raksha Hospital | 24×7 Emergency",
+   "description": "Expert cardiac care at Raksha Hospital Bangalore & Kudlu. 24×7 emergency heart care, ECG, Echo, TMT, angioplasty near HSR Layout, Singasandra. Best cardiologists. Call +91-8050222777",
+   "keywords": "cardiac care hospital Kudlu, best cardiac hospital Bangalore, cardiologist Kudlu, heart specialist Bangalore, cardiology hospital Kudlu Bengaluru, heart treatment Bangalore, cardiac surgery Bangalore, heart hospital Kudlu, 24×7 cardiac care Kudlu, ECG Echo TMT Kudlu, angioplasty Bangalore, preventive cardiology Kudlu, hypertension management Bangalore, heart attack treatment Kudlu, chest pain clinic Kudlu, best cardiologist Bangalore, heart disease treatment Kudlu, cardiac hospital near HSR Layout",
+   "words": 231,
+   "h3": [
+    "Why Raksha?",
+    "Comprehensive Cardiology Treatments"
+   ]
+  },
+  "diabetology": {
+   "slug": "diabetology",
+   "file": "diabetology.html",
+   "heading": "Skin & Cosmetology",
+   "cover": "../img/diabetology.jpg",
+   "images": [],
+   "boxes": [
+    {
+     "title": "Symptoms",
+     "items": [
+      "Acne & pimples",
+      "Dry or oily skin",
+      "Hyperpigmentation",
+      "Itching & rashes",
+      "Hair thinning or loss",
+      "Dark circles & wrinkles"
+     ]
+    },
+    {
+     "title": "Causes",
+     "items": [
+      "Hormonal imbalances",
+      "Genetics",
+      "Sun exposure",
+      "Allergies & infections",
+      "Poor skincare habits",
+      "Aging & lifestyle factors"
+     ]
+    },
+    {
+     "title": "Treatment",
+     "items": [
+      "Topical medications",
+      "Oral treatments",
+      "Laser therapy",
+      "Cosmetic procedures",
+      "PRP for hair restoration",
+      "Hydration & skincare regimens"
+     ]
+    },
+    {
+     "title": "Care",
+     "items": [
+      "Regular dermatology check-ups",
+      "Using sunscreen daily",
+      "Following a healthy skincare routine",
+      "Staying hydrated",
+      "Avoiding harsh chemicals",
+      "Maintaining a balanced diet"
+     ]
+    }
+   ],
+   "title": "Best Diabetology Care in Bangalore & Kudlu | Diabetes Specialist | Raksha Hospital",
+   "description": "Best diabetology care in Bangalore & Kudlu. Expert diabetologists, diabetes management, sugar control near HSR Layout. Call +91-8050222777",
+   "keywords": "diabetology Kudlu, best diabetologist Bangalore, diabetes treatment Kudlu, diabetes care Bangalore, sugar specialist Kudlu, diabetes management Bangalore, endocrinologist Kudlu, diabetes clinic Bangalore",
+   "words": 229,
+   "h3": [
+    "Why Raksha?",
+    "Comprehensive Skin &amp; Cosmetology Treatments"
+   ]
+  },
+  "ent": {
+   "slug": "ent",
+   "file": "ent.html",
+   "heading": "ENT",
+   "cover": "../img/ENT.jpg",
+   "images": [],
+   "boxes": [
+    {
+     "title": "Symptoms",
+     "items": [
+      "Hearing loss & ear pain",
+      "Frequent sinus infections",
+      "Difficulty swallowing",
+      "Voice changes & hoarseness",
+      "Nasal congestion & snoring",
+      "Dizziness & balance issues"
+     ]
+    },
+    {
+     "title": "Causes",
+     "items": [
+      "Infections & allergies",
+      "Exposure to loud noise",
+      "Sinus congestion & polyps",
+      "Throat inflammation",
+      "Genetic predisposition",
+      "Environmental pollutants"
+     ]
+    },
+    {
+     "title": "Treatment",
+     "items": [
+      "Medications & antibiotics",
+      "Hearing aids & ear tubes",
+      "Sinus surgery & nasal treatments",
+      "Speech therapy & voice training",
+      "Tonsillectomy & adenoidectomy",
+      "Balance disorder management"
+     ]
+    },
+    {
+     "title": "Care",
+     "items": [
+      "Regular ENT check-ups",
+      "Protecting ears from loud noise",
+      "Using a humidifier for nasal care",
+      "Maintaining vocal hygiene",
+      "Avoiding allergens & irritants",
+      "Practicing good ear & throat hygiene"
+     ]
+    }
+   ],
+   "title": "Best ENT Hospital in Bangalore & Kudlu | ENT Specialist | Ear Nose Throat | Raksha Hospital",
+   "description": "Best ENT hospital in Bangalore & Kudlu. Expert ENT specialists, ear nose throat treatment near HSR Layout. Call +91-8050222777",
+   "keywords": "ENT hospital Kudlu, best ENT specialist Bangalore, ENT doctor Kudlu, ear nose throat Bangalore, sinus treatment Kudlu, hearing problems Bangalore, throat specialist Kudlu, ENT surgeon Bangalore",
+   "words": 228,
+   "h3": [
+    "Why Raksha?",
+    "Comprehensive ENT Treatments"
+   ]
+  },
+  "gastroentrology": {
+   "slug": "gastroentrology",
+   "file": "gastroentrology.html",
+   "heading": "Gastroenterology",
+   "cover": "../img/gastroenterology.jpg",
+   "images": [],
+   "boxes": [
+    {
+     "title": "Symptoms",
+     "items": [
+      "Abdominal pain & bloating",
+      "Frequent heartburn",
+      "Unexplained weight loss",
+      "Nausea & vomiting",
+      "Diarrhea or constipation",
+      "Blood in stool"
+     ]
+    },
+    {
+     "title": "Causes",
+     "items": [
+      "Poor diet & unhealthy eating habits",
+      "Infections & bacterial overgrowth",
+      "Chronic alcohol consumption",
+      "Genetic predisposition",
+      "Stress & lifestyle factors",
+      "Autoimmune conditions"
+     ]
+    },
+    {
+     "title": "Treatment",
+     "items": [
+      "Medications for acid reflux & ulcers",
+      "Probiotics & digestive enzyme therapy",
+      "Endoscopic procedures",
+      "Dietary modifications & lifestyle changes",
+      "Hepatitis & liver disease treatments",
+      "Colorectal cancer screenings"
+     ]
+    },
+    {
+     "title": "Care",
+     "items": [
+      "Regular gastrointestinal check-ups",
+      "Maintaining a fiber-rich diet",
+      "Staying hydrated & avoiding processed foods",
+      "Limiting alcohol & caffeine intake",
+      "Exercising for digestive health",
+      "Managing stress & maintaining gut balance"
+     ]
+    }
+   ],
+   "title": "Best Gastroenterology Hospital in Bangalore & Kudlu | Stomach Specialist | Raksha Hospital",
+   "description": "Best gastroenterology hospital in Bangalore & Kudlu. Expert stomach specialists, digestive care, endoscopy near HSR Layout. Call +91-8050222777",
+   "keywords": "gastroenterology hospital Kudlu, best gastroenterologist Bangalore, stomach specialist Kudlu, digestive care Bangalore, endoscopy Kudlu, liver specialist Bangalore, colonoscopy Kudlu, GI specialist Bangalore",
+   "words": 213,
+   "h3": [
+    "Why Raksha?",
+    "Comprehensive Gastroenterology Treatments"
+   ]
+  },
+  "general_medicine": {
+   "slug": "general_medicine",
+   "file": "general_medicine.html",
+   "heading": "General Medicine",
+   "cover": "../img/general_medicine.jpg",
+   "images": [],
+   "boxes": [
+    {
+     "title": "Symptoms",
+     "items": [
+      "Fever & body aches",
+      "Persistent fatigue",
+      "High blood pressure",
+      "Unexplained weight changes",
+      "Chronic cough & breathing issues",
+      "Digestive discomfort"
+     ]
+    },
+    {
+     "title": "Causes",
+     "items": [
+      "Poor lifestyle & diet",
+      "Infections & viral illnesses",
+      "Genetic predisposition",
+      "Environmental factors",
+      "Chronic stress & lack of exercise",
+      "Age-related conditions"
+     ]
+    },
+    {
+     "title": "Treatment",
+     "items": [
+      "Medications for disease management",
+      "Vaccination & immunization programs",
+      "Comprehensive health check-ups",
+      "Lifestyle & dietary interventions",
+      "Long-term disease monitoring",
+      "Rehabilitation & wellness programs"
+     ]
+    },
+    {
+     "title": "Care",
+     "items": [
+      "Regular physician consultations",
+      "Maintaining a balanced diet",
+      "Engaging in regular exercise",
+      "Managing stress & mental well-being",
+      "Routine health screenings",
+      "Avoiding self-medication & monitoring symptoms"
+     ]
+    }
+   ],
+   "title": "Best General Physician in Bangalore & Kudlu | Internal Medicine | Raksha Hospital",
+   "description": "Best general physician in Bangalore & Kudlu. Expert internal medicine doctors, general health care near HSR Layout. Call +91-8050222777",
+   "keywords": "general physician Kudlu, best doctor Bangalore, internal medicine Kudlu, general medicine Bangalore, family doctor Kudlu, physician Bangalore, general health care Kudlu, medical consultation Bangalore",
+   "words": 223,
+   "h3": [
+    "Why Raksha?",
+    "Comprehensive General Medicine Treatments"
+   ]
+  },
+  "general_surgery": {
+   "slug": "general_surgery",
+   "file": "general_surgery.html",
+   "heading": "General Surgery",
+   "cover": "../img/general_surgery.jpg",
+   "images": [],
+   "boxes": [
+    {
+     "title": "Symptoms",
+     "items": [
+      "Severe abdominal pain",
+      "Swelling or lumps",
+      "Uncontrolled bleeding",
+      "Chronic digestive issues",
+      "Infections or non-healing wounds",
+      "Difficulty swallowing"
+     ]
+    },
+    {
+     "title": "Causes",
+     "items": [
+      "Infections & inflammation",
+      "Trauma & injuries",
+      "Genetic predisposition",
+      "Hernias & organ dysfunction",
+      "Obstructions in the digestive system",
+      "Cancerous & non-cancerous growths"
+     ]
+    },
+    {
+     "title": "Treatment",
+     "items": [
+      "Medications & antibiotics",
+      "Minimally invasive laparoscopic surgery",
+      "Traditional open surgery for complex cases",
+      "Emergency surgical interventions",
+      "Wound care & post-operative monitoring",
+      "Physical therapy for post-surgical recovery"
+     ]
+    },
+    {
+     "title": "Care",
+     "items": [
+      "Regular surgical evaluations",
+      "Following post-operative care instructions",
+      "Maintaining a healthy diet",
+      "Avoiding strenuous activities post-surgery",
+      "Keeping the surgical site clean",
+      "Routine follow-up appointments"
+     ]
+    }
+   ],
+   "title": "Best General Surgery Hospital in Bangalore & Kudlu | Surgeon | Laparoscopic Surgery | Raksha Hospital",
+   "description": "Best general surgery hospital in Bangalore & Kudlu. Expert surgeons, laparoscopic surgery, emergency surgery near HSR Layout, Singasandra. Call +91-8050222777",
+   "keywords": "general surgery hospital Kudlu, best surgery hospital Bangalore, best surgeon Bangalore, laparoscopic surgery Kudlu, emergency surgery Bangalore, hernia repair Kudlu, gallbladder surgery Bangalore, appendix surgery Kudlu, surgical specialist Bangalore, trauma care Kudlu, minimally invasive surgery Bangalore, surgical procedures Kudlu, best surgical hospital Bangalore",
+   "words": 222,
+   "h3": [
+    "Why Raksha?",
+    "Comprehensive General Surgery Treatments"
+   ]
+  },
+  "oncology": {
+   "slug": "oncology",
+   "file": "oncology.html",
+   "heading": "Oncology",
+   "cover": "../img/oncology.jpeg",
+   "images": [],
+   "boxes": [
+    {
+     "title": "Symptoms",
+     "items": [
+      "Unexplained weight loss",
+      "Chronic fatigue",
+      "Persistent pain",
+      "Unusual lumps or swelling",
+      "Changes in skin or moles",
+      "Difficulty swallowing or persistent cough"
+     ]
+    },
+    {
+     "title": "Causes",
+     "items": [
+      "Genetic mutations",
+      "Smoking & alcohol consumption",
+      "Exposure to radiation & carcinogens",
+      "Unhealthy diet & obesity",
+      "Chronic infections (HPV, Hepatitis B/C)",
+      "Family history of cancer"
+     ]
+    },
+    {
+     "title": "Treatment",
+     "items": [
+      "Chemotherapy & radiation therapy",
+      "Targeted therapy & immunotherapy",
+      "Minimally invasive cancer surgery",
+      "Bone marrow transplants",
+      "Hormonal therapy for certain cancers",
+      "Palliative care & pain management"
+     ]
+    },
+    {
+     "title": "Care",
+     "items": [
+      "Regular cancer screenings",
+      "Healthy lifestyle & balanced diet",
+      "Managing side effects of treatments",
+      "Emotional & psychological support",
+      "Routine follow-up & monitoring",
+      "Early detection & prevention strategies"
+     ]
+    }
+   ],
+   "title": "Best Cancer Treatment Hospital in Bangalore & Kudlu | Oncology | Chemotherapy | Raksha Hospital",
+   "description": "Best cancer treatment hospital in Bangalore & Kudlu. Expert oncologists, chemotherapy, cancer care near HSR Layout. Call +91-8050222777",
+   "keywords": "oncology hospital Kudlu, best cancer hospital Bangalore, cancer treatment Kudlu, oncologist Bangalore, chemotherapy Kudlu, cancer care Bangalore, radiation therapy Kudlu, cancer screening Bangalore",
+   "words": 221,
+   "h3": [
+    "Why Raksha?",
+    "Comprehensive Oncology Treatments"
+   ]
+  },
+  "ophthalmology": {
+   "slug": "ophthalmology",
+   "file": "ophthalmology.html",
+   "heading": "Ophthalmology",
+   "cover": "../img/ophtalmology.jpg",
+   "images": [],
+   "boxes": [
+    {
+     "title": "Symptoms",
+     "items": [
+      "Blurred or distorted vision",
+      "Eye redness & irritation",
+      "Light sensitivity",
+      "Frequent headaches",
+      "Difficulty seeing at night",
+      "Sudden vision loss"
+     ]
+    },
+    {
+     "title": "Causes",
+     "items": [
+      "Aging & genetic factors",
+      "Diabetes & hypertension",
+      "Prolonged screen exposure",
+      "Infections & eye trauma",
+      "Refractive errors",
+      "Glaucoma & cataracts"
+     ]
+    },
+    {
+     "title": "Treatment",
+     "items": [
+      "Prescription glasses & contact lenses",
+      "Medications & eye drops",
+      "Laser therapy for vision correction",
+      "Surgical interventions",
+      "Intraocular lens implants",
+      "Regular vision screenings"
+     ]
+    },
+    {
+     "title": "Care",
+     "items": [
+      "Regular eye check-ups",
+      "Protecting eyes from UV rays",
+      "Maintaining a healthy diet",
+      "Reducing screen time",
+      "Practicing good eye hygiene",
+      "Wearing protective eyewear"
+     ]
+    }
+   ],
+   "title": "Best Eye Hospital in Bangalore & Kudlu | Ophthalmologist | Eye Care | Raksha Hospital",
+   "description": "Best eye hospital in Bangalore & Kudlu. Expert ophthalmologists, eye care, cataract surgery near HSR Layout. Call +91-8050222777",
+   "keywords": "eye hospital Kudlu, best ophthalmologist Bangalore, eye care Kudlu, eye specialist Bangalore, cataract surgery Kudlu, eye treatment Bangalore, vision care Kudlu, eye doctor Bangalore",
+   "words": 215,
+   "h3": [
+    "Why Raksha?",
+    "Comprehensive Ophthalmology Treatments"
+   ]
+  },
+  "orthopedics": {
+   "slug": "orthopedics",
+   "file": "orthopedics.html",
+   "heading": "Orthopedics",
+   "cover": "../img/Orthopedics.jpg",
+   "images": [],
+   "boxes": [
+    {
+     "title": "Symptoms",
+     "items": [
+      "Joint pain & stiffness",
+      "Swelling & inflammation",
+      "Back & neck pain",
+      "Limited range of motion",
+      "Muscle weakness",
+      "Bone fractures"
+     ]
+    },
+    {
+     "title": "Causes",
+     "items": [
+      "Injuries & trauma",
+      "Osteoporosis & arthritis",
+      "Genetic disorders",
+      "Overuse & repetitive strain",
+      "Obesity & poor posture",
+      "Aging & degeneration"
+     ]
+    },
+    {
+     "title": "Treatment",
+     "items": [
+      "Medications & pain management",
+      "Physical therapy & rehabilitation",
+      "Orthopedic surgery",
+      "Bracing & support devices",
+      "Minimally invasive procedures",
+      "Joint replacement"
+     ]
+    },
+    {
+     "title": "Care",
+     "items": [
+      "Regular orthopedic check-ups",
+      "Maintaining an active lifestyle",
+      "Proper posture & ergonomics",
+      "Strength & flexibility exercises",
+      "Balanced diet for bone health",
+      "Avoiding high-impact activities"
+     ]
+    },
+    {
+     "title": "Symptoms",
+     "items": [
+      "Swelling in legs or face",
+      "Fatigue",
+      "High blood pressure",
+      "Frequent urination",
+      "Blood in urine",
+      "Unexplained weight loss"
+     ]
+    },
+    {
+     "title": "Causes",
+     "items": [
+      "Diabetes",
+      "High blood pressure",
+      "Genetic disorders",
+      "Autoimmune diseases",
+      "Urinary tract infections",
+      "Long-term medication use"
+     ]
+    },
+    {
+     "title": "Treatment",
+     "items": [
+      "Dialysis",
+      "Kidney transplant",
+      "Medications",
+      "Blood pressure management",
+      "Specialized diet",
+      "Regular monitoring"
+     ]
+    },
+    {
+     "title": "Care",
+     "items": [
+      "Routine kidney checkups",
+      "Maintaining a balanced diet",
+      "Staying hydrated",
+      "Managing blood sugar and pressure",
+      "Avoiding excessive medication use",
+      "Exercise and stress management"
+     ]
+    }
+   ],
+   "title": "Best Orthopaedic Hospital in Bangalore & Kudlu | Orthopedic Doctor | Joint Care | Raksha Hospital",
+   "description": "Best orthopaedic hospital in Bangalore & Kudlu. Expert orthopedic doctors, joint replacement, fracture care, sports injury near HSR Layout. Call +91-8050222777",
+   "keywords": "orthopaedic hospital Kudlu, best orthopedic hospital Bangalore, best orthopedic doctor Bangalore, joint replacement Kudlu, knee replacement Bangalore, hip replacement Bangalore, fracture treatment Kudlu, sports injury clinic Bangalore, arthroscopy Kudlu, spine surgery Bangalore, physiotherapy Kudlu, orthopedic surgeon Bangalore, best bone doctor Bangalore, orthopedics near HSR Layout",
+   "words": 221,
+   "h3": [
+    "Why Raksha?",
+    "Comprehensive Orthopedic Treatments"
+   ]
+  },
+  "pediatrics": {
+   "slug": "pediatrics",
+   "file": "pediatrics.html",
+   "heading": "Pediatrics",
+   "cover": "../img/Pediatrics.jpg",
+   "images": [],
+   "boxes": [
+    {
+     "title": "Symptoms",
+     "items": [
+      "Fever & frequent infections",
+      "Delayed growth & development",
+      "Allergies & breathing difficulties",
+      "Poor appetite & weight loss",
+      "Skin rashes & irritations",
+      "Behavioral or sleep issues"
+     ]
+    },
+    {
+     "title": "Causes",
+     "items": [
+      "Genetic disorders",
+      "Infections & viruses",
+      "Nutritional deficiencies",
+      "Environmental allergens",
+      "Congenital conditions",
+      "Weakened immune system"
+     ]
+    },
+    {
+     "title": "Treatment",
+     "items": [
+      "Medications & vaccinations",
+      "Dietary & nutritional support",
+      "Allergy treatments",
+      "Physiotherapy & speech therapy",
+      "Neonatal intensive care",
+      "Behavioral therapy"
+     ]
+    },
+    {
+     "title": "Care",
+     "items": [
+      "Regular pediatric check-ups",
+      "Balanced diet & hydration",
+      "Proper hygiene & vaccinations",
+      "Encouraging physical activities",
+      "Monitoring developmental milestones",
+      "Parental guidance & education"
+     ]
+    }
+   ],
+   "title": "Best Children's Hospital in Bangalore & Kudlu | Pediatrician | Child Care | Raksha Hospital",
+   "description": "Best children's hospital in Bangalore & Kudlu. Expert pediatricians, vaccination, NICU, newborn care, child emergency care near HSR Layout, Singasandra. Call +91-8050222777",
+   "keywords": "children's hospital Kudlu, best pediatrician Bangalore, child specialist Kudlu, pediatric care Bangalore, vaccination clinic Kudlu, NICU Kudlu, newborn care Bangalore, child emergency care Kudlu, baby doctor Bangalore, pediatric hospital Kudlu, growth monitoring Bangalore, immunization center Kudlu, best children's doctor Bangalore, child health Kudlu",
+   "words": 219,
+   "h3": [
+    "Why Raksha?",
+    "Comprehensive Paediatrics Treatments"
+   ]
+  },
+  "pulmonology": {
+   "slug": "pulmonology",
+   "file": "pulmonology.html",
+   "heading": "Pulmonology",
+   "cover": "../img/pulmonology.jpg",
+   "images": [],
+   "boxes": [
+    {
+     "title": "Symptoms",
+     "items": [
+      "Chronic cough",
+      "Shortness of breath",
+      "Wheezing & chest tightness",
+      "Frequent lung infections",
+      "Excessive mucus production",
+      "Fatigue & difficulty breathing"
+     ]
+    },
+    {
+     "title": "Causes",
+     "items": [
+      "Smoking & air pollution",
+      "Allergens & irritants",
+      "Genetic predisposition",
+      "Chronic infections",
+      "Autoimmune disorders",
+      "Occupational hazards"
+     ]
+    },
+    {
+     "title": "Treatment",
+     "items": [
+      "Inhalers & bronchodilators",
+      "Antibiotics & antivirals",
+      "Oxygen therapy & ventilatory support",
+      "Pulmonary rehabilitation",
+      "Breathing exercises",
+      "Advanced respiratory therapies"
+     ]
+    },
+    {
+     "title": "Care",
+     "items": [
+      "Regular lung function tests",
+      "Avoiding smoking & air pollutants",
+      "Maintaining a healthy weight",
+      "Practicing breathing exercises",
+      "Staying hydrated & eating a balanced diet",
+      "Getting flu & pneumonia vaccines"
+     ]
+    }
+   ],
+   "title": "Best Pulmonology Hospital in Bangalore & Kudlu | Lung Specialist | Raksha Hospital",
+   "description": "Best pulmonology hospital in Bangalore & Kudlu. Expert lung specialists, respiratory care, asthma treatment near HSR Layout. Call +91-8050222777",
+   "keywords": "pulmonology hospital Kudlu, best lung specialist Bangalore, respiratory care Kudlu, pulmonologist Bangalore, asthma treatment Kudlu, COPD care Bangalore, lung disease treatment Kudlu, chest specialist Bangalore",
+   "words": 214,
+   "h3": [
+    "Why Raksha?",
+    "Comprehensive Pulmonology Treatments"
+   ]
+  },
+  "skin_cosmetology": {
+   "slug": "skin_cosmetology",
+   "file": "skin_cosmetology.html",
+   "heading": "Skin & Cosmetology",
+   "cover": "../img/skin.jpg",
+   "images": [],
+   "boxes": [
+    {
+     "title": "Symptoms",
+     "items": [
+      "Acne & pimples",
+      "Dry or oily skin",
+      "Hyperpigmentation",
+      "Itching & rashes",
+      "Hair thinning or loss",
+      "Dark circles & wrinkles"
+     ]
+    },
+    {
+     "title": "Causes",
+     "items": [
+      "Hormonal imbalances",
+      "Genetics",
+      "Sun exposure",
+      "Allergies & infections",
+      "Poor skincare habits",
+      "Aging & lifestyle factors"
+     ]
+    },
+    {
+     "title": "Treatment",
+     "items": [
+      "Topical medications",
+      "Oral treatments",
+      "Laser therapy",
+      "Cosmetic procedures",
+      "PRP for hair restoration",
+      "Hydration & skincare regimens"
+     ]
+    },
+    {
+     "title": "Care",
+     "items": [
+      "Regular dermatology check-ups",
+      "Using sunscreen daily",
+      "Following a healthy skincare routine",
+      "Staying hydrated",
+      "Avoiding harsh chemicals",
+      "Maintaining a balanced diet"
+     ]
+    }
+   ],
+   "title": "Best Dermatology Clinic in Bangalore & Kudlu | Skin Specialist | Cosmetology | Raksha Hospital",
+   "description": "Best dermatology clinic in Bangalore & Kudlu. Expert skin specialists, cosmetology, skin care near HSR Layout. Call +91-8050222777",
+   "keywords": "dermatology clinic Kudlu, best dermatologist Bangalore, skin specialist Kudlu, cosmetology Bangalore, skin care Kudlu, skin treatment Bangalore, hair treatment Kudlu, cosmetic dermatology Bangalore",
+   "words": 229,
+   "h3": [
+    "Why Raksha?",
+    "Comprehensive Skin &amp; Cosmetology Treatments"
+   ]
+  },
+  "urology": {
+   "slug": "urology",
+   "file": "urology.html",
+   "heading": "Urology",
+   "cover": "../img/urology.jpg",
+   "images": [],
+   "boxes": [
+    {
+     "title": "Symptoms",
+     "items": [
+      "Swelling in legs or face",
+      "Fatigue",
+      "High blood pressure",
+      "Frequent urination",
+      "Blood in urine",
+      "Unexplained weight loss"
+     ]
+    },
+    {
+     "title": "Causes",
+     "items": [
+      "Diabetes",
+      "High blood pressure",
+      "Genetic disorders",
+      "Autoimmune diseases",
+      "Urinary tract infections",
+      "Long-term medication use"
+     ]
+    },
+    {
+     "title": "Treatment",
+     "items": [
+      "Dialysis",
+      "Kidney transplant",
+      "Medications",
+      "Blood pressure management",
+      "Specialized diet",
+      "Regular monitoring"
+     ]
+    },
+    {
+     "title": "Care",
+     "items": [
+      "Routine kidney checkups",
+      "Maintaining a balanced diet",
+      "Staying hydrated",
+      "Managing blood sugar and pressure",
+      "Avoiding excessive medication use",
+      "Exercise and stress management"
+     ]
+    }
+   ],
+   "title": "Best Urology Hospital in Bangalore & Kudlu | Urologist | Kidney Stone Treatment | Raksha Hospital",
+   "description": "Best urology hospital in Bangalore & Kudlu. Expert urologists, kidney stone treatment, prostate care, UTI treatment near HSR Layout. Call +91-8050222777",
+   "keywords": "urology hospital Kudlu, best urologist Bangalore, kidney stone treatment Kudlu, urologist Bangalore, prostate care Kudlu, UTI treatment Bangalore, urinary problems Kudlu, urology surgery Bangalore, kidney stone removal Kudlu, best urology hospital Bangalore, urologist near HSR Layout, bladder treatment Kudlu",
+   "words": 222,
+   "h3": [
+    "Why Raksha?",
+    "Comprehensive Urology Treatments"
+   ]
+  },
+  "vascular": {
+   "slug": "vascular",
+   "file": "vascular.html",
+   "heading": "Vascular & Endovascular Surgery",
+   "cover": "../img/vascular.jpg",
+   "images": [],
+   "boxes": [
+    {
+     "title": "Symptoms",
+     "items": [
+      "Leg pain & cramping",
+      "Swelling in the lower limbs",
+      "Varicose veins & skin discoloration",
+      "Cold or numb extremities",
+      "Non-healing wounds on legs or feet",
+      "Sudden weakness or dizziness"
+     ]
+    },
+    {
+     "title": "Causes",
+     "items": [
+      "High cholesterol & hypertension",
+      "Smoking & obesity",
+      "Diabetes & poor circulation",
+      "Genetic predisposition",
+      "Blood clots & arterial blockages",
+      "Lack of physical activity"
+     ]
+    },
+    {
+     "title": "Treatment",
+     "items": [
+      "Medications for vascular health",
+      "Minimally invasive endovascular surgery",
+      "Angioplasty & stent placement",
+      "Varicose vein laser treatments",
+      "Surgical bypass for severe cases",
+      "Compression therapy & lifestyle changes"
+     ]
+    },
+    {
+     "title": "Care",
+     "items": [
+      "Regular vascular check-ups",
+      "Maintaining a healthy weight",
+      "Staying active & exercising",
+      "Managing blood pressure & cholesterol",
+      "Avoiding smoking & excessive alcohol",
+      "Following a heart-healthy diet"
+     ]
+    }
+   ],
+   "title": "Best Vascular Surgery Hospital in Bangalore & Kudlu | Vascular Surgeon | Raksha Hospital",
+   "description": "Best vascular surgery hospital in Bangalore & Kudlu. Expert vascular surgeons, varicose veins treatment near HSR Layout. Call +91-8050222777",
+   "keywords": "vascular surgery hospital Kudlu, best vascular surgeon Bangalore, varicose veins treatment Kudlu, vascular specialist Bangalore, blood vessel surgery Kudlu, vascular care Bangalore, angioplasty Kudlu",
+   "words": 240,
+   "h3": [
+    "Why Raksha?",
+    "Comprehensive Vascular &amp; Endovascular Treatments"
+   ]
+  }
+ }
+}

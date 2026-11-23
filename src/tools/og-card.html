@@ -1,0 +1,47 @@
+<!doctype html>
+<!-- Social sharing card (1200x630). Rendered to assets/img/brand/og-*.jpg by src/tools/og.sh -->
+<html lang="en">
+<meta charset="utf-8">
+<title>Social card</title>
+<style>
+  @font-face { font-family: "Plus Jakarta Sans"; font-weight: 200 800; src: url("../../assets/fonts/plus-jakarta-sans-latin.woff2") format("woff2"); }
+  * { box-sizing: border-box; margin: 0; }
+  html, body { width: 1200px; height: 630px; overflow: hidden; }
+  body { display: grid; grid-template-columns: 640px 560px; font-family: "Plus Jakarta Sans", sans-serif; background: #061B3A; color: #fff; }
+  .text { position: relative; display: flex; flex-direction: column; justify-content: center; padding: 56px 40px 56px 64px;
+    background: radial-gradient(700px 360px at 110% -10%, rgba(31,116,214,.5), transparent 62%), radial-gradient(500px 300px at -10% 110%, rgba(0,181,106,.28), transparent 60%), #061B3A; }
+  .logo { align-self: flex-start; padding: 14px 20px; border-radius: 18px; background: #fff; margin-bottom: 44px; }
+  .logo img { display: block; height: 92px; }
+  .eyebrow { font-size: 22px; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; color: #5FDCA6; margin-bottom: 16px; }
+  h1 { font-size: 56px; line-height: 1.06; letter-spacing: -.03em; font-weight: 800; }
+  p { margin-top: 22px; font-size: 26px; line-height: 1.4; color: rgba(255,255,255,.82); font-weight: 500; }
+  .sos { margin-top: 34px; display: inline-flex; align-self: flex-start; align-items: center; gap: 14px; padding: 14px 24px; border-radius: 16px; background: #DB1430; font-size: 26px; font-weight: 800; white-space: nowrap; }
+  .sos i { width: 14px; height: 14px; border-radius: 50%; background: #fff; }
+  .photo { position: relative; }
+  .photo img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .photo::after { content: ""; position: absolute; inset: 0; background: linear-gradient(90deg, #061B3A 0%, rgba(6,27,58,0) 30%); }
+</style>
+<body>
+  <div class="text">
+    <div class="logo"><img src="../../assets/img/brand/logo.webp" alt=""></div>
+    <div class="eyebrow" id="eyebrow"></div>
+    <h1 id="title"></h1>
+    <p id="sub"></p>
+    <div class="sos" id="sos"><i></i><span></span></div>
+  </div>
+  <div class="photo"><img id="photo" alt=""></div>
+  <script>
+    var cards = {
+      ec: { eyebrow: 'Electronic City, Bengaluru', title: 'Multi-speciality care, close to home', sub: 'Experienced doctors · ICU · Surgery · Diagnostics · Pharmacy', sos: '24×7 Emergency  +91 94940 60671', photo: 'ec/reception' },
+      kudlu: { eyebrow: 'Kudlu, Bengaluru', title: 'Multi-speciality care, close to home', sub: 'Experienced doctors · ICU · Surgery · Diagnostics · Pharmacy', sos: '24×7 Emergency  +91 80502 22777', photo: 'kudlu/reception' },
+      group: { eyebrow: 'Electronic City · Kudlu', title: 'Health & happiness for all', sub: 'Multi-speciality hospitals in South Bengaluru with experienced doctors, ICU, surgery and diagnostics', sos: '24×7 Emergency care', photo: 'ec/reception' }
+    };
+    var c = cards[new URLSearchParams(location.search).get('branch') || 'group'];
+    document.getElementById('eyebrow').textContent = c.eyebrow;
+    document.getElementById('title').textContent = c.title;
+    document.getElementById('sub').textContent = c.sub;
+    document.querySelector('#sos span').textContent = c.sos;
+    document.getElementById('photo').src = '../../assets/img/' + c.photo + '.webp';
+  </script>
+</body>
+</html>

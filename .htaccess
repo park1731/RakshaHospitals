@@ -1,11 +1,11 @@
 ######################################################
-# Redirect Rules for rakshahospital.com
-# Last Updated: 2025-10-27
-# Purpose: 
-# - Fix 127 404 errors
-# - Fix "Duplicate without canonical" error
-# - Fix "Page with redirect" error (5 URLs)
-# - Fix "Soft 404" error (proper HTTP status codes)
+# rakshahospital.com - Apache rules
+# Last updated: 2026-11-23 (site rebuild)
+#
+# - Error pages, HTTPS, non-www, clean folder URLs
+# - Redirects for every URL the old site ever used
+# - Keeps private/working files from being downloaded
+# - Compression and browser caching
 ######################################################
 
 RewriteEngine On
@@ -17,13 +17,24 @@ ErrorDocument 404 /electroniccity/404.html
 ErrorDocument 500 /electroniccity/500.html
 
 ######################################################
-# 1. FORCE HTTPS (1 URL)
+# 0. NEVER SERVE WORKING FILES OR PRIVATE DOCUMENTS
+# (site source, git data, spreadsheets, Word files, PDFs)
+######################################################
+RewriteRule (^|/)\.git - [F,L]
+RewriteRule ^src(/|$) - [F,L]
+RewriteRule ^README\.md$ - [F,L]
+RewriteRule \.(xlsx?|docx?|php|py|sh|mjs)$ - [F,NC,L]
+# Stray PDFs sit in the old image folders. (PDFs elsewhere, e.g. a brochure you add later, are served normally.)
+RewriteRule ^(electroniccity/images|electroniccity/img_for_child_blogs_and_speciality|kudlu/img)/.*\.pdf$ - [F,NC,L]
+
+######################################################
+# 1. FORCE HTTPS
 ######################################################
 RewriteCond %{HTTPS} off
 RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
 ######################################################
-# 2. REMOVE WWW (4 URLs)
+# 2. REMOVE WWW
 ######################################################
 RewriteCond %{HTTP_HOST} ^www\.rakshahospital\.com [NC]
 RewriteRule ^(.*)$ https://rakshahospital.com/$1 [L,R=301]
@@ -35,7 +46,7 @@ RewriteCond %{THE_REQUEST} ^.*/index\.html
 RewriteRule ^(.*)index\.html$ https://rakshahospital.com/$1 [R=301,L]
 
 ######################################################
-# 3. OLD /raksha/ SUBDIRECTORY (52 URLs)
+# 3. OLD /raksha/ SUBDIRECTORY
 # Redirect to /electroniccity/ since it's the main branch
 ######################################################
 RedirectMatch 301 ^/raksha/index\.html$ /electroniccity/
@@ -58,39 +69,35 @@ RedirectMatch 301 ^/raksha/Diseases/general_medicine\.html$ /electroniccity/spec
 RedirectMatch 301 ^/raksha/Diseases/general_surgery\.html$ /electroniccity/specialities/general-surgery.html
 RedirectMatch 301 ^/raksha/Diseases/neurology\.html$ /electroniccity/specialities/neurology.html
 RedirectMatch 301 ^/raksha/Diseases/Obstetrics%20_Gynaecology\.html$ /electroniccity/specialities/obgyn.html
-RedirectMatch 301 ^/raksha/Diseases/Obstetrics _Gynaecology\.html$ /electroniccity/specialities/obgyn.html
+RedirectMatch 301 "^/raksha/Diseases/Obstetrics _Gynaecology\.html$" /electroniccity/specialities/obgyn.html
 RedirectMatch 301 ^/raksha/Diseases/orthopedics\.html$ /electroniccity/specialities/orthopedics.html
 RedirectMatch 301 ^/raksha/Diseases/pediatrics\.html$ /electroniccity/specialities/pediatrics.html
 RedirectMatch 301 ^/raksha/Diseases/urology\.html$ /electroniccity/specialities/urology.html
-RedirectMatch 301 ^/raksha/Diseases/ent\.html$ /kudlu/Diseases/ent.html
-RedirectMatch 301 ^/raksha/Diseases/pulmonology\.html$ /kudlu/Diseases/vascular.html
-RedirectMatch 301 ^/raksha/Diseases/oncology\.html$ /kudlu/Diseases/oncology.html
-RedirectMatch 301 ^/raksha/Diseases/Nephrology\.html$ /kudlu/Diseases/urology.html
+RedirectMatch 301 ^/raksha/Diseases/ent\.html$ /electroniccity/specialities/ent.html
+RedirectMatch 301 ^/raksha/Diseases/pulmonology\.html$ /kudlu/Diseases/pulmonology.html
+RedirectMatch 301 ^/raksha/Diseases/oncology\.html$ /electroniccity/specialities/oncology.html
+RedirectMatch 301 ^/raksha/Diseases/Nephrology\.html$ /electroniccity/specialities/nephrology.html
 RedirectMatch 301 ^/raksha/Diseases/gastroentrology\.html$ /kudlu/Diseases/gastroentrology.html
-RedirectMatch 301 ^/raksha/Diseases/skin_cosmetology\.html$ /kudlu/Diseases/general_medicine.html
+RedirectMatch 301 ^/raksha/Diseases/skin_cosmetology\.html$ /electroniccity/specialities/dermatology.html
 
 # Catch-all for any remaining raksha paths
 RedirectMatch 301 ^/raksha/(.*)$ /electroniccity/$1
 
 ######################################################
-# 4. KUDLU BRANCH WITH SPACES (25 URLs)
+# 4. KUDLU BRANCH WITH SPACES
 ######################################################
-# Fix URL-encoded spaces (%20)
 RedirectMatch 301 "^/kudlu%20branch/(.*)$" /kudlu/$1
-# Fix unencoded spaces (in case)
 RedirectMatch 301 "^/kudlu branch/(.*)$" /kudlu/$1
 
 ######################################################
-# 5. ROOT BLOGS TO ELECTRONICCITY BLOGS (24 URLs)
-# Redirect root-level blog/speciality URLs to electroniccity
+# 5. ROOT BLOGS TO ELECTRONICCITY BLOGS
 ######################################################
 RedirectMatch 301 ^/blogs/(.*)$ /electroniccity/blogs/$1
 RedirectMatch 301 ^/specialities/(.*)$ /electroniccity/specialities/$1
 RedirectMatch 301 ^/health-check\.html$ /electroniccity/health-check.html
 
 ######################################################
-# 6. ELECTRONICCITY WRONG BLOG STRUCTURE (14 URLs)
-# Remove /blogs/ from paths like /electroniccity/blogs/specialities/
+# 6. ELECTRONICCITY WRONG BLOG STRUCTURE
 ######################################################
 RedirectMatch 301 ^/electroniccity/blogs/specialities/(.*)$ /electroniccity/specialities/$1
 RedirectMatch 301 ^/electroniccity/blogs/appointment\.html$ /electroniccity/appointment.html
@@ -100,27 +107,27 @@ RedirectMatch 301 ^/electroniccity/blogs/health-check\.html$ /electroniccity/hea
 RedirectMatch 301 ^/electroniccity/blogs/specialities\.html$ /electroniccity/specialities.html
 RedirectMatch 301 ^/electroniccity/blogs/blogs\.html$ /electroniccity/blogs.html
 RedirectMatch 301 ^/electroniccity/blogs/index\.html$ /electroniccity/blogs.html
+RedirectMatch 301 ^/electroniccity/blogs/tatv\.html$ /electroniccity/blogs/aroatic.html
 
 ######################################################
-# 7. LANGUAGE PATHS (2 URLs)
+# 7. LANGUAGE PATHS
 # Hindi and Kannada language paths don't exist
 ######################################################
 RedirectMatch 301 ^/electroniccity/hi/$ /electroniccity/
 RedirectMatch 301 ^/electroniccity/kn/$ /electroniccity/
 
 ######################################################
-# 8. TYPOS (2 URLs)
+# 8. TYPOS
 ######################################################
 RedirectMatch 301 ^/(.*)/dotors\.html$ /$1/doctors.html
 
 ######################################################
-# 9. DUPLICATE PATH SEGMENTS (4 URLs)
+# 9. DUPLICATE PATH SEGMENTS
 ######################################################
 RedirectMatch 301 ^/(.*)/DiseasesDiseases/(.*)$ /$1/Diseases/$2
 
 ######################################################
-# 10. OLD KUDLU PATHS TO ROOT
-# Some old kudlu URLs without proper branch structure
+# 10. OLD KUDLU PATHS
 ######################################################
 RedirectMatch 301 ^/kudlu/Diseases/about\.html$ /kudlu/about.html
 RedirectMatch 301 ^/kudlu/Diseases/contact\.html$ /kudlu/contact.html
@@ -133,6 +140,18 @@ RedirectMatch 301 ^/kudlu/blogs/contact\.html$ /kudlu/contact.html
 RedirectMatch 301 ^/kudlu/blogs/index\.html$ /kudlu/blog.html
 
 ######################################################
+# 10.5. PAGES RETIRED IN THE 2026 REBUILD
+# The old template's leftover pages now point at their real equivalents,
+# and the Obstetrics page lost the space in its file name.
+######################################################
+RedirectMatch 301 ^/kudlu/blog-single\.html$ /kudlu/blog.html
+RedirectMatch 301 ^/kudlu/portfolio-details\.html$ /kudlu/gallery.html
+RedirectMatch 301 ^/kudlu/contact2\.html$ /kudlu/contact.html
+RedirectMatch 301 ^/kudlu/Diseases/Obstetrics%20_Gynaecology\.html$ /kudlu/Diseases/Obstetrics_Gynaecology.html
+RedirectMatch 301 "^/kudlu/Diseases/Obstetrics _Gynaecology\.html$" /kudlu/Diseases/Obstetrics_Gynaecology.html
+RedirectMatch 301 ^/kudlu/mail-success\.html$ /kudlu/contact.html
+
+######################################################
 # 11. PATH NORMALIZATION
 ######################################################
 Redirect 301 /electronic-city/ /electroniccity/
@@ -142,3 +161,36 @@ Redirect 301 /index /
 # 12. WWW PREFIX REMOVAL FROM OLD DOMAINS
 ######################################################
 RedirectMatch 301 ^/Diseases/(.*)$ /kudlu/Diseases/$1
+
+######################################################
+# 13. PERFORMANCE: COMPRESSION + BROWSER CACHING
+# CSS/JS links carry a ?v=<hash>, so they can be cached for a long time.
+######################################################
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css text/plain text/xml application/xml application/javascript text/javascript application/json image/svg+xml
+</IfModule>
+
+<IfModule mod_mime.c>
+  AddType image/webp .webp
+  AddType font/woff2 .woff2
+</IfModule>
+
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresDefault "access plus 1 hour"
+  ExpiresByType text/html "access plus 10 minutes"
+  ExpiresByType text/css "access plus 1 year"
+  ExpiresByType application/javascript "access plus 1 year"
+  ExpiresByType text/javascript "access plus 1 year"
+  ExpiresByType font/woff2 "access plus 1 year"
+  ExpiresByType image/webp "access plus 1 month"
+  ExpiresByType image/jpeg "access plus 1 month"
+  ExpiresByType image/png "access plus 1 month"
+  ExpiresByType image/x-icon "access plus 1 month"
+  ExpiresByType image/svg+xml "access plus 1 month"
+</IfModule>
+
+<IfModule mod_headers.c>
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+</IfModule>

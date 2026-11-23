@@ -1,0 +1,132 @@
+{
+ "services": [
+  {
+   "title": "24×7 Emergency Hospital Electronic City",
+   "desc": "Round-the-clock 24×7 emergency hospital Electronic City with advanced trauma care, emergency response team, and immediate medical attention for all critical conditions."
+  },
+  {
+   "title": "ICU Hospital Electronic City Bengaluru",
+   "desc": "State-of-the-art ICU hospital Electronic City Bengaluru with ventilators, critical care specialists, and 24×7 intensive monitoring for critically ill patients."
+  },
+  {
+   "title": "Ambulance Service in Electronic City Bengaluru",
+   "desc": "Professional ambulance service in Electronic City Bengaluru available 24×7 with advanced life support systems and trained paramedics for emergency transportation."
+  },
+  {
+   "title": "Cardiac Care Hospital Electronic City Bengaluru",
+   "desc": "Leading cardiac care hospital Electronic City Bengaluru offering ECG, Echo, TMT, preventive cardiology, heart disease treatment, and 24×7 emergency cardiac care."
+  },
+  {
+   "title": "Maternity Hospital Electronic City Bengaluru",
+   "desc": "Trusted maternity hospital Electronic City Bengaluru with experienced gynecologists, NICU facilities, normal delivery, C-section, and comprehensive pre-natal & post-natal care."
+  },
+  {
+   "title": "Children's Hospital Electronic City Bengaluru",
+   "desc": "Dedicated children's hospital Electronic City Bengaluru providing pediatric care, vaccination, newborn care, child emergency services, and specialized treatment for kids."
+  },
+  {
+   "title": "Neurology Hospital Electronic City Bengaluru",
+   "desc": "Expert neurology hospital Electronic City Bengaluru for brain disorders, stroke treatment, epilepsy management, headaches, and comprehensive neurological care."
+  },
+  {
+   "title": "Orthopaedics Hospital Electronic City Bengaluru",
+   "desc": "Advanced orthopaedics hospital Electronic City Bengaluru offering joint replacement, fracture treatment, sports injuries, spine surgery, and bone care services."
+  },
+  {
+   "title": "General Surgery Hospital Electronic City Bengaluru",
+   "desc": "Comprehensive general surgery hospital Electronic City Bengaluru providing laparoscopic surgery, emergency surgery, hernia repair, and minimally invasive procedures."
+  },
+  {
+   "title": "Diagnostic Imaging Centre Electronic City Bengaluru",
+   "desc": "Modern diagnostic imaging centre Electronic City Bengaluru with X-Ray, Ultrasound, ECG, Echo, TMT, and advanced diagnostic facilities available 24×7."
+  },
+  {
+   "title": "Lab Services Hospital Electronic City Bengaluru",
+   "desc": "Full-service lab services hospital Electronic City Bengaluru offering comprehensive blood tests, pathology, clinical laboratory services with quick reports."
+  },
+  {
+   "title": "Physiotherapy in Electronic City Bengaluru",
+   "desc": "Professional physiotherapy in Electronic City Bengaluru for rehabilitation, sports injuries, post-surgery recovery, and pain management with expert therapists."
+  },
+  {
+   "title": "Dermatology Clinic Electronic City Bengaluru",
+   "desc": "Expert dermatology clinic Electronic City Bengaluru treating skin conditions, acne, hair problems, cosmetic dermatology, and skin care consultations."
+  },
+  {
+   "title": "Outpatient Services Hospital Electronic City Bengaluru",
+   "desc": "Convenient outpatient services hospital Electronic City Bengaluru for consultations, follow-ups, minor procedures, and day-care treatments without hospitalization."
+  },
+  {
+   "title": "24×7 Pharmacy Electronic City Bengaluru",
+   "desc": "Round-the-clock 24×7 pharmacy Electronic City Bengaluru stocked with all medicines, surgical supplies, and healthcare products for patient convenience."
+  },
+  {
+   "title": "Psychiatry Hospital Electronic City Bengaluru",
+   "desc": "Compassionate psychiatry hospital Electronic City Bengaluru offering mental health services, counseling, psychiatric consultations, and treatment for psychological disorders."
+  },
+  {
+   "title": "Oncology Hospital Electronic City Bengaluru",
+   "desc": "Specialized oncology hospital Electronic City Bengaluru providing cancer screening, chemotherapy, oncology consultations, and comprehensive cancer care support."
+  },
+  {
+   "title": "Gastroenterology Hospital Electronic City Bengaluru",
+   "desc": "Advanced gastroenterology hospital Electronic City Bengaluru for digestive disorders, liver diseases, endoscopy, and comprehensive gastrointestinal care."
+  },
+  {
+   "title": "Preventive Health Check Up Electronic City Bengaluru",
+   "desc": "Comprehensive preventive health check up Electronic City Bengaluru with full body checkup packages, cardiac screening, diabetes screening for individuals and corporates."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Which hospital in Electronic City has 24×7 ICU and emergency care?",
+   "a": "Raksha Multi-Speciality Hospital in Electronic City Bengaluru provides 24×7 ICU and emergency care services with experienced doctors and modern medical equipment. We are located near Wipro campus and Hosur Road, making us easily accessible for emergency medical situations."
+  },
+  {
+   "q": "What services are available at the best multi-speciality hospital in Electronic City?",
+   "a": "Raksha Hospital offers comprehensive healthcare services including cardiac care, maternity services, neurology, orthopaedics, pediatrics, general surgery, diagnostic imaging, lab services, physiotherapy, dermatology, psychiatry, gastroenterology, and 24×7 pharmacy. We also provide ambulance services throughout Electronic City Bengaluru."
+  },
+  {
+   "q": "Is there an affordable multi-speciality hospital near Wipro campus in Electronic City?",
+   "a": "Yes, Raksha Multi-Speciality Hospital is conveniently located near Wipro campus in Electronic City Bengaluru. We provide affordable, high-quality healthcare services with transparent pricing and accept most insurance plans. Our hospital is easily accessible from all major IT parks in Electronic City."
+  },
+  {
+   "q": "Does Raksha Hospital provide ambulance service in Electronic City Bengaluru?",
+   "a": "Yes, we provide 24×7 ambulance service throughout Electronic City Bengaluru and surrounding areas. Our ambulances are equipped with advanced life support systems and staffed by trained paramedics. Call +91 94940 60671 for immediate emergency ambulance service."
+  },
+  {
+   "q": "Which is the best hospital for cardiac care in Electronic City Bengaluru?",
+   "a": "Raksha Multi-Speciality Hospital offers comprehensive cardiac care services in Electronic City Bengaluru with experienced cardiologists, advanced diagnostic facilities including ECG, Echo, TMT, and 24×7 emergency cardiac care. We provide preventive cardiology, hypertension management, and treatment for complex heart conditions."
+  },
+  {
+   "q": "Are preventive health checkup packages available at your Electronic City hospital?",
+   "a": "Yes, Raksha Hospital offers comprehensive preventive health checkup packages in Electronic City Bengaluru for individuals, families, and corporate employees. Our health checkup packages include full body checkup, cardiac screening, diabetes screening, and specialized packages for different age groups. Visit our <a href=\"health-check.html\">health checkup page</a> for more details."
+  },
+  {
+   "q": "Is there a good maternity hospital near Hosur Road in Electronic City?",
+   "a": "Raksha Multi-Speciality Hospital, located near Hosur Road in Electronic City, provides excellent maternity and obstetrics services with experienced gynecologists, modern labor rooms, NICU facilities, and comprehensive pre-natal and post-natal care. We ensure safe and comfortable delivery for mothers and babies."
+  },
+  {
+   "q": "What diagnostic imaging services are available at your Electronic City hospital?",
+   "a": "Our diagnostic imaging centre in Electronic City Bengaluru offers X-Ray, Ultrasound, ECG, Echo, TMT, and comprehensive lab services. All diagnostic services are available 24×7 with quick report turnaround time and digital report delivery."
+  }
+ ],
+ "seoH1": "Best Multi-Speciality Hospital in Electronic City Bengaluru | Top Hospital in Bangalore",
+ "seoIntro": "Raksha Hospital is the leading hospital in Electronic City Bengaluru and one of the best hospitals in Bangalore, offering comprehensive multi-speciality healthcare services. As the best hospital in Electronic City Bengaluru and a trusted multi speciality hospital in Bangalore, we provide world-class medical care with 24×7 availability. Our affordable multispeciality hospital is conveniently located in Electronic City, Bangalore, near Wipro campus and accessible from Hosur Road, serving patients across Bengaluru.",
+ "nearTitle": "Best Hospital Near Me in Electronic City Bengaluru",
+ "nearText": "Looking for the best hospital near me? Raksha Multi-Speciality Hospital is your trusted hospital near me in Electronic City offering 24×7 emergency services. As the best hospital near Hosur Road Electronic City and hospital near Wipro campus Electronic City Bengaluru, we're easily accessible from all IT parks, residential areas, and major landmarks in Electronic City Phase 1 and Phase 2.",
+ "nearPoints": [
+  {
+   "title": "Convenient Location",
+   "desc": "Near Wipro campus, Infosys, TCS, Hosur Road - Easy access for emergency care"
+  },
+  {
+   "title": "24×7 Availability",
+   "desc": "Always open - Emergency services, ICU, ambulance available round the clock"
+  },
+  {
+   "title": "Affordable Care",
+   "desc": "Transparent pricing, all insurance accepted, cashless facility available"
+  }
+ ]
+}
